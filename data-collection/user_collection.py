@@ -13,7 +13,7 @@ if not os.path.exists('../data/processed/user_list/user_list.csv'):
 	# Fill user list with mdb_accounts if user_list does not exist
 	mdb_twitter_list.to_csv('../data/processed/user_list/user_list.csv', index=False, decimal=',', sep=";", float_format='%.0f')
 
-user_list = pd.read_csv('../data/processed/user_list/user_list.csv', sep=";", na_values="")
+user_list = pd.read_csv('../data/processed/user_list/user_list.csv', sep=";", na_values="", dtype={'twitter_id': str})
 
 # For testing purposes and to reduce API calls, drop all entries without a twitter_handle which is used for the API calls
 user_list = user_list.dropna(subset=['twitter_handle'])
@@ -24,6 +24,7 @@ for index, contents in user_list.iterrows():
 	if 'api_call' in user_list.columns:
 
 		api_call_value = contents['api_call']
+
 		if isinstance(api_call_value, float):
 			# do api call because float means value is  NA
 			response = client.get_user(username=contents['twitter_handle'], user_fields=['created_at', 'description', 'location', 'protected', 'public_metrics', 'verified'])
@@ -32,7 +33,7 @@ for index, contents in user_list.iterrows():
 			# Check if user account was deleted in the meantime (= no account was found)
 			if response.data is not None:
 				# Append default Response Values
-				user_list.at[index, 'twitter_id'] = response.data.id
+				user_list.at[index, 'twitter_id'] = np.int64(response.data.id)
 				user_list.at[index, 'twitter_name'] = response.data.name
 
 				# Append Responses of user_fields
