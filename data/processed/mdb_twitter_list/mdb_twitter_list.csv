@@ -87,7 +87,7 @@ bundestag_id;nachname;vorname;wp;fraktion;twitter_handle;account_type
 11003802;Link;Michael Georg;20;Fraktion der Freien Demokratischen Partei;michael_g_link;person
 11003804;Mast;Katja;20;Fraktion der Sozialdemokratischen Partei Deutschlands;KatjaMast;person
 11003809;Miersch;Matthias;20;Fraktion der Sozialdemokratischen Partei Deutschlands;;person
-11003815;Müller;Carsten;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;;person
+11003815;Müller;Carsten;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;CarstenMuellers;person
 11003816;Müller;Detlef;20;Fraktion der Sozialdemokratischen Partei Deutschlands;MuellerChemnitz;person
 11003821;Otte;Henning;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;HenningOtteMdB;person
 11003830;Rix;Sönke;20;Fraktion der Sozialdemokratischen Partei Deutschlands;SoenkeRix;person
@@ -98,7 +98,7 @@ bundestag_id;nachname;vorname;wp;fraktion;twitter_handle;account_type
 11003848;Sitte;Petra;20;Fraktion DIE LINKE.;Petra_Sitte_MdB;person
 11003856;Toncar;Florian;20;Fraktion der Freien Demokratischen Partei;florian_toncar;person
 11003858;Ulrich;Alexander;20;Fraktion DIE LINKE.;;person
-11003865;Winkelmeier-Becker;Elisabeth;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;;person
+11003865;Winkelmeier-Becker;Elisabeth;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;ElisabethWinke4;person
 11003881;Nouripour;Omid;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;nouripour;person
 11003888;Strengmann-Kuhn;Wolfgang;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;W_SK;person
 11003890;Hirte;Christian;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;ChristianHirte;person
@@ -144,7 +144,7 @@ bundestag_id;nachname;vorname;wp;fraktion;twitter_handle;account_type
 11004100;Luczak;Jan-Marco;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;JM_Luczak;person
 11004102;Luksic;Oliver;20;Fraktion der Freien Demokratischen Partei;OlliLuksic;person
 11004103;Lutze;Thomas;20;Fraktion DIE LINKE.;thlutze;person
-11004106;Brugger;Agnieszka;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;cagnieszka_mdb;person
+11004106;Brugger;Agnieszka;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;agnieszka_mdb;person
 11004108;Mattfeldt;Andreas;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;AMattfeldt;person
 11004110;Middelberg;Mathias;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;;person
 11004111;Möhring;Cornelia;20;Fraktion DIE LINKE.;Conni_Moehring;person
@@ -156,7 +156,7 @@ bundestag_id;nachname;vorname;wp;fraktion;twitter_handle;account_type
 11004124;Özoğuz;Aydan;20;Fraktion der Sozialdemokratischen Partei Deutschlands;oezoguz;person
 11004127;Paus;Lisa;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;lisapaus;person
 11004136;Rief;Josef;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;;person
-11004138;Rößner;Tabea;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;TabeaRoessne;person
+11004138;Rößner;Tabea;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;TabeaRoessner;person
 11004139;Rüddel;Erwin;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;Erwin_Rueddel;person
 11004146;Schnieder;Patrick;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;Pschnieder;person
 11004150;Schwartze;Stefan;20;Fraktion der Sozialdemokratischen Partei Deutschlands;s_schwartze;person
@@ -165,7 +165,7 @@ bundestag_id;nachname;vorname;wp;fraktion;twitter_handle;account_type
 11004168;Stier;Dieter;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;;person
 11004169;Stracke;Stephan;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;;person
 11004175;Thomae;Stephan;20;Fraktion der Freien Demokratischen Partei;StephanThomae;person
-11004179;Vogel;Johannes;20;Fraktion der Freien Demokratischen Partei;check;person
+11004179;Vogel;Johannes;20;Fraktion der Freien Demokratischen Partei;johannesvogel;person
 11004181;Vogler;Kathrin;20;Fraktion DIE LINKE.;voglerk;person
 11004182;Wadephul;Johann David;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;JoWadephul;person
 11004183;Wagenknecht;Sahra;20;Fraktion DIE LINKE.;SWagenknecht;person
@@ -176,7 +176,7 @@ bundestag_id;nachname;vorname;wp;fraktion;twitter_handle;account_type
 11004222;Todtenhausen;Manfred;20;Fraktion der Freien Demokratischen Partei;MTodtenhausen;person
 11004226;Hellmich;Wolfgang;20;Fraktion der Sozialdemokratischen Partei Deutschlands;HellmichMdB;person
 11004229;Reinhold;Hagen;20;Fraktion der Freien Demokratischen Partei;reinholdmdb;person
-11004241;Albani;Stephan;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;Stephan_Alban;person
+11004241;Albani;Stephan;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;;person
 11004243;Amtsberg;Luise;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;;person
 11004244;Baehrens;Heike;20;Fraktion der Sozialdemokratischen Partei Deutschlands;;person
 11004245;Baerbock;Annalena;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;ABaerbock;person
@@ -246,7 +246,7 @@ bundestag_id;nachname;vorname;wp;fraktion;twitter_handle;account_type
 11004389;Rosemann;Martin;20;Fraktion der Sozialdemokratischen Partei Deutschlands;MartinRosemann;person
 11004390;Rüffer;Corinna;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;crueffer;person
 11004392;Rützel;Bernd;20;Fraktion der Sozialdemokratischen Partei Deutschlands;ruetzelbernd;person
-11004393;Saathoff;Johann;20;Fraktion der Sozialdemokratischen Partei Deutschlands;Johann_Saathof;person
+11004393;Saathoff;Johann;20;Fraktion der Sozialdemokratischen Partei Deutschlands;Johann_Saathoff;person
 11004395;Schauws;Ulle;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;ulle_schauws;person
 11004396;Scheer;Nina;20;Fraktion der Sozialdemokratischen Partei Deutschlands;NinaScheer_SPD;person
 11004397;Schiefner;Udo;20;Fraktion der Sozialdemokratischen Partei Deutschlands;UdoSchiefner;person
@@ -261,7 +261,7 @@ bundestag_id;nachname;vorname;wp;fraktion;twitter_handle;account_type
 11004415;Stegemann;Albert;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;StegemannAlbert;person
 11004418;Steiniger;Johannes;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;JoSteiniger;person
 11004423;Tausend;Claudia;20;Fraktion der Sozialdemokratischen Partei Deutschlands;;person
-11004424;Thews;Michael;20;Fraktion der Sozialdemokratischen Partei Deutschlands;;person
+11004424;Thews;Michael;20;Fraktion der Sozialdemokratischen Partei Deutschlands;michael_thews;person
 11004425;Timmermann-Fechter;Astrid;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;;person
 11004426;Träger;Carsten;20;Fraktion der Sozialdemokratischen Partei Deutschlands;CarstenTraeger;person
 11004427;Ullrich;Volker;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;VolkerUllrich;person
@@ -390,7 +390,7 @@ bundestag_id;nachname;vorname;wp;fraktion;twitter_handle;account_type
 11004829;Müller;Axel;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;;person
 11004830;Müller;Claudia;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;GruenClaudia;person
 11004832;Müller;Sepp;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;mueller_sepp;person
-11004834;Müller-Rosentritt;Frank;20;Fraktion der Freien Demokratischen Partei;theliberalfran;person
+11004834;Müller-Rosentritt;Frank;20;Fraktion der Freien Demokratischen Partei;theliberalfrank;person
 11004836;Münzenmaier;Sebastian;20;Alternative für Deutschland;S_Muenzenmaier;person
 11004837;Nastic;Zaklin;20;Fraktion DIE LINKE.;ZaklinNastic;person
 11004841;Nicolaisen;Petra;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;;person
@@ -500,7 +500,7 @@ bundestag_id;nachname;vorname;wp;fraktion;twitter_handle;account_type
 11005031;Brandes;Dirk;20;Alternative für Deutschland;;person
 11005032;Breilmann;Michael;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;m_breilmann;person
 11005033;Bröhr;Marlon;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;therealmarlonb1;person
-11005034;Bsirske;Frank;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;cFBsirske;person
+11005034;Bsirske;Frank;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;FBsirske;person
 11005035;Bury;Yannick;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;YannickBury;person
 11005036;Cademartori Dujisin;Isabel;20;Fraktion der Sozialdemokratischen Partei Deutschlands;isacademartori;person
 11005037;Czaja;Mario;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;MarioCzaja;person
@@ -554,7 +554,7 @@ bundestag_id;nachname;vorname;wp;fraktion;twitter_handle;account_type
 11005085;Hierl;Susanne;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;HierlSusanne;person
 11005086;Hönel;Bruno;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;Bruno_Hoenel;person
 11005087;Hoppermann;Franziska;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;FHoppermann;person
-11005088;Hostert;Jasmina;20;Fraktion der Sozialdemokratischen Partei Deutschlands;JasminaHoster;person
+11005088;Hostert;Jasmina;20;Fraktion der Sozialdemokratischen Partei Deutschlands;JasminaHostert;person
 11005089;Hubertz;Verena;20;Fraktion der Sozialdemokratischen Partei Deutschlands;verenahubertz;person
 11005090;Hümpfer;Markus;20;Fraktion der Sozialdemokratischen Partei Deutschlands;HumpferMarkus;person
 11005091;Huy;Gerrit;20;Alternative für Deutschland;GerritHuy;person
@@ -591,7 +591,7 @@ bundestag_id;nachname;vorname;wp;fraktion;twitter_handle;account_type
 11005122;Larem;Andreas;20;Fraktion der Sozialdemokratischen Partei Deutschlands;andreaslarem;person
 11005123;Latendorf;Ina;20;Fraktion DIE LINKE.;;person
 11005124;Leiser;Kevin;20;Fraktion der Sozialdemokratischen Partei Deutschlands;KLHohenlohe;person
-11005125;Lenders;Jürgen;20;Fraktion der Freien Demokratischen Partei;;person
+11005125;Lenders;Jürgen;20;Fraktion der Freien Demokratischen Partei;JurgenLenders;person
 11005126;Lenk;Barbara;20;Alternative für Deutschland;;person
 11005127;Leye;Christian;20;Fraktion DIE LINKE.;christian_leye;person
 11005128;Licina-Bode;Luiza;20;Fraktion der Sozialdemokratischen Partei Deutschlands;BodeLuiza;person
@@ -684,7 +684,7 @@ bundestag_id;nachname;vorname;wp;fraktion;twitter_handle;account_type
 11005216;Schulz;Anja;20;Fraktion der Freien Demokratischen Partei;_anja_schulz;person
 11005217;Schulze;Svenja;20;Fraktion der Sozialdemokratischen Partei Deutschlands;SvenjaSchulze68;person
 11005218;Schwarz;Armin;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;ArminSchwarz;person
-11005219;Seidler;Stefan;20;Fraktionslos;;person
+11005219;Seidler;Stefan;20;Fraktionslos;stefan_seidler;person
 11005220;Seiter;Stephan;20;Fraktion der Freien Demokratischen Partei;StSeiter;person
 11005221;Seitzl;Lina;20;Fraktion der Sozialdemokratischen Partei Deutschlands;Lina_Seitzl;person
 11005222;Sekmen;Melis;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;Melis_S;person
@@ -719,7 +719,7 @@ bundestag_id;nachname;vorname;wp;fraktion;twitter_handle;account_type
 11005251;Wegge;Carmen;20;Fraktion der Sozialdemokratischen Partei Deutschlands;CarmenWegge;person
 11005252;Wegling;Melanie;20;Fraktion der Sozialdemokratischen Partei Deutschlands;;person
 11005253;Weishaupt;Saskia;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;SaskiaLeaRaquel;person
-11005254;Weiss;Maria-Lena;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;;person
+11005254;Weiss;Maria-Lena;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;weisse_Lena;person
 11005255;Wenzel;Stefan;20;Fraktion BÜNDNIS 90/DIE GRÜNEN;StefWenzel;person
 11005256;Werner;Lena;20;Fraktion der Sozialdemokratischen Partei Deutschlands;thereallenzii;person
 11005257;Wiener;Klaus;20;Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union;KlausWiener;person
