@@ -9,6 +9,7 @@ directory = "../data/processed/tweet_list/"
 
 for filename in os.listdir(directory):
 	if pattern.match(filename):
+		print(filename)
 		filepath = directory + filename
 		user_tweet_list = pd.read_csv(filepath, sep=";", lineterminator='\n')
 		tweet_list = pd.concat([tweet_list, user_tweet_list], axis=0)

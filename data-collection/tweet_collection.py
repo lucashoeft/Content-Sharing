@@ -10,7 +10,7 @@ client = tweepy.Client(bearer_token=config.bearer_token, wait_on_rate_limit=True
 
 user_list = pd.read_csv('../data/processed/user_list/user_list.csv', sep=";", na_values="", dtype={'twitter_id': str})
 
-user_list = user_list.dropna(subset=['twitter_id']).head(10)
+user_list = user_list.dropna(subset=['twitter_id'])
 
 for index, contents in user_list.iterrows():
 
