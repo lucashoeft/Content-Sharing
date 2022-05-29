@@ -30,8 +30,6 @@ for index, contents in user_list.iterrows():
 	source_screen_name = user_list.iloc[index].twitter_handle
 	source_id = user_list.iloc[index].twitter_id
 	
-	now = datetime.now()
-
 	for index, contents in user_list[index:].iterrows(): 
 		if index+1 < len(user_list):
 			target_screen_name = user_list.iloc[index+1].twitter_handle
@@ -39,8 +37,9 @@ for index, contents in user_list.iterrows():
 			
 			if user_friendship_list.empty:
 				api_call += 1
+				now = datetime.now()
 				friendship = api.get_friendship(source_screen_name=source_screen_name, target_screen_name=target_screen_name)
-				print(source_screen_name, source_id, target_screen_name, target_id)
+				print(now, source_screen_name, source_id, target_screen_name, target_id)
 				
 				if friendship[0].following:
 					# source follows target
@@ -61,8 +60,9 @@ for index, contents in user_list.iterrows():
 				
 				if check_friendship.empty:
 					api_call += 1
+					now = datetime.now()
 					friendship = api.get_friendship(source_screen_name=source_screen_name, target_screen_name=target_screen_name)
-					print(source_screen_name, source_id, target_screen_name, target_id)
+					print(now, source_screen_name, source_id, target_screen_name, target_id)
 					
 					if friendship[0].following:
 						# source follows target
