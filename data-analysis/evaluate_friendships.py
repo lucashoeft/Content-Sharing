@@ -10,32 +10,35 @@ friendships = pd.DataFrame(columns=['source_screen_name',\
 			'target_follows_source',\
 			'tie_type'])
 
+
 for index, contents in user_friendship_list.iterrows():
+	source_screen_name = contents['source_screen_name']
+	source_id = contents['source_id']
+	target_screen_name = contents['target_screen_name']
+	target_id = contents['target_id']
 
-	other_friendship = friendships[(friendships['source_screen_name'] == contents['target_screen_name']) & (friendships['target_screen_name'] == contents['source_screen_name'])]
+	currentPair = contents # current row
+	
+	if index+1 < user_friendship_list.shape[0]:
+		nextPair = user_friendship_list.iloc[index+1] # next row
 
-	# Check if the friendship was already checked the other way around
-	if other_friendship.empty:
-		source_screen_name = contents['source_screen_name']
-		source_id = contents['source_id']
+		# check if this row and the next row are about the same two people
+		if currentPair['source_screen_name'] == nextPair['target_screen_name'] and currentPair['target_screen_name'] == nextPair['source_screen_name']:
+			source_follows_target = currentPair['following']
+			target_follows_source = nextPair['following']
 
-		target_screen_name = contents['target_screen_name']
-		target_id = contents['target_id']
+			# determine tie type
+			if source_follows_target == True and target_follows_source == True:
+				tie_type = "strong"
+			elif source_follows_target == True or target_follows_source == True:
+				tie_type = "weak"
+			else:
+				tie_type = "no tie"
 
-		source_follows_target = contents['following']
+			print(round(friendships.shape[0] / (user_friendship_list.shape[0]/2) * 100, 1), "%")
+
+			friendships.loc[len(friendships.index)] = [source_screen_name, source_id, target_screen_name, target_id, source_follows_target, target_follows_source, tie_type]
 		
-		target_source = user_friendship_list[(user_friendship_list['source_screen_name'] == contents['target_screen_name']) & (user_friendship_list['target_screen_name'] == contents['source_screen_name'])].iloc[0]
-		target_follows_source = target_source['following']
-
-		if source_follows_target == True & target_follows_source == True:
-			tie_type = "strong"
-		elif source_follows_target == False & target_follows_source == False:
-			tie_type = "no tie"
-		else:
-			tie_type = "weak"
-
-		friendships.loc[len(friendships.index)] = [source_screen_name, source_id, target_screen_name, target_id, source_follows_target, target_follows_source, tie_type]
-
-print(friendships)
+print(friendships[['source_screen_name', 'target_screen_name', 'tie_type']])
 
 friendships.to_csv('../data/processed/user_friendships/user_friendships_evaluation.csv', index=False, decimal=',', sep=";", float_format='%.f')
