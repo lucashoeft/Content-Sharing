@@ -32,7 +32,7 @@ This folder contains all scripts for the data collection and transformation. The
 * <code>user_friendship_collection.py</code>: Reads the files <code>user_list.csv</code> and <code>user_friendships.csv</code>. Then it goes through the account list and checks if the friendship between two users was already checked. Friendship means if the two users follow each other or only one account follows the other account. If the friendship was not checked before, it calls the API and stores the result directly in <code>user_friendships.csv</code>
 
 ### Transformations
-* <code>retweeter_collection.py</code>: Checks all tweet-files in the folder <code>tweet_list</code> and finds out which retweets/quotes are related to tweets in this list of tweets. In other words, it finds out which politician quoted/retweeted a tweet of another politician. The results are then stored in <code>retweet_list.csv</code> and <code>quote_list.csv</code>. Users can retweet/quote their own tweets as well
+* <code>retweeter_collection.py</code>: Checks all tweet-files in the folder <code>tweet_list</code> and finds out which retweets/quotes are related to tweets in this list of tweets. In other words, it finds out which politician quoted/retweeted a tweet of another politician. The results are then stored in <code>retweet_list.csv</code> and <code>quote_list.csv</code>. Users can retweet/quote their own tweets as well.
 
 ## data-analysis
 
