@@ -63,6 +63,8 @@ for index, contents in user_list.iterrows():
 					user_friendship_list.to_csv('../data/processed/user_friendships/user_friendships.csv', index=False, decimal=',', sep=";", float_format='%.f')
 				except:
 					print("ERROR")
+
+	user_friendship_list.to_csv('../data/processed/user_friendships/user_friendships_' + str(source_screen_name) + '.csv' , index=False, decimal=',', sep=";", float_format='%.f')
 """
 
 for index, contents in user_list.iterrows():
