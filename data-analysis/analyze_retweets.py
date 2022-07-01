@@ -1,7 +1,7 @@
 import pandas as pd
 
-retweet_list = pd.read_csv('../data/processed/retweet_list/retweet_list.csv', sep=";", na_values="", lineterminator='\n')
-user_friendship_list = pd.read_csv('../data/processed/user_friendships/user_friendships_evaluation.csv', sep=";", na_values="")
+retweet_list = pd.read_csv('../data/processed/retweet_list.csv', sep=";", na_values="", lineterminator='\n')
+user_friendship_list = pd.read_csv('../data/processed/user_friendships_evaluation.csv', sep=";", na_values="")
 # print(retweet_list.dtypes)
 
 weak = 0

@@ -8,7 +8,7 @@ import os
 
 client = tweepy.Client(bearer_token=config.bearer_token, wait_on_rate_limit=True)
 
-user_list = pd.read_csv('../data/processed/user_list/user_list.csv', sep=";", na_values="", dtype={'twitter_id': str})
+user_list = pd.read_csv('../data/intermediate/user_list/user_list.csv', sep=";", na_values="", dtype={'twitter_id': str})
 
 user_list = user_list.dropna(subset=['twitter_id'])
 
@@ -23,7 +23,7 @@ for index, contents in user_list.iterrows():
 	matching_file = False
 
 	# Check flag to true if any file matches the criteria
-	for filepath in os.listdir("../data/processed/tweet_list/"):
+	for filepath in os.listdir("../data/intermediate/tweet_list/"):
 		if pattern.match(filepath):
 			matching_file = True
 
@@ -112,5 +112,5 @@ for index, contents in user_list.iterrows():
 				tweet_referenced_tweet_type,\
 				api_call]
 
-		file_path = '../data/processed/tweet_list/tweet_list_' + str(twitter_id) + "_" + twitter_handle + '.csv'
+		file_path = '../data/intermediate/tweet_list/tweet_list_' + str(twitter_id) + "_" + twitter_handle + '.csv'
 		tweet_list.to_csv(file_path, index=False, decimal=',', sep=";", float_format='%.0f')

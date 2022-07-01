@@ -7,13 +7,13 @@ import os.path
 
 client = tweepy.Client(bearer_token=config.bearer_token, wait_on_rate_limit=True)
 
-mdb_twitter_list = pd.read_csv('../data/processed/mdb_twitter_list/mdb_twitter_list.csv', sep=";", na_values="NA")
+mdb_twitter_list = pd.read_csv('../data/intermediate/mdb_twitter_list/mdb_twitter_list.csv', sep=";", na_values="NA")
 
-if not os.path.exists('../data/processed/user_list/user_list.csv'):
+if not os.path.exists('../data/intermediate/user_list/user_list.csv'):
 	# Fill user list with mdb_accounts if user_list does not exist
-	mdb_twitter_list.to_csv('../data/processed/user_list/user_list.csv', index=False, decimal=',', sep=";", float_format='%.0f')
+	mdb_twitter_list.to_csv('../data/intermediate/user_list/user_list.csv', index=False, decimal=',', sep=";", float_format='%.0f')
 
-user_list = pd.read_csv('../data/processed/user_list/user_list.csv', sep=";", na_values="", dtype={'twitter_id': str})
+user_list = pd.read_csv('../data/intermediate/user_list/user_list.csv', sep=";", na_values="", dtype={'twitter_id': str})
 
 # For testing purposes and to reduce API calls, drop all entries without a twitter_handle which is used for the API calls
 user_list = user_list.dropna(subset=['twitter_handle'])
@@ -81,4 +81,4 @@ for index, contents in user_list.iterrows():
 		user_list.at[index, 'api_call'] = now
 	
 	# Store enriched data frame as new csv-file
-	user_list.to_csv('../data/processed/user_list/user_list.csv', index=False, decimal=',', sep=";", float_format='%.0f')
+	user_list.to_csv('../data/intermediate/user_list/user_list.csv', index=False, decimal=',', sep=";", float_format='%.0f')

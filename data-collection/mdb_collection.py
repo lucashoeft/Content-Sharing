@@ -111,5 +111,5 @@ for child in root:
 print("Anzahl Politiker:", i)
 
 print(mdb_list)
-file_path = '../data/processed/mdb_list/mdb_list.csv'
+file_path = '../data/intermediate/mdb_list/mdb_list.csv'
 mdb_list.to_csv(file_path, index=False, decimal=',', sep=";", float_format='%.0f')
