@@ -8,7 +8,7 @@ root = ET.parse('../data/external/MdB-Stammdaten-data/MDB_STAMMDATEN.XML').getro
 
 i = 0
 
-mdb_list = pd.DataFrame(columns=['bundestag_id', 'nachname', 'vorname', 'wp', 'fraktion'])
+mdb_list = pd.DataFrame(columns=['bundestag_id', 'nachname', 'vorname', 'geburtsdatum', 'geburtsort', 'geburtsland', 'geschlecht', 'familienstand', 'religion', 'beruf', 'wp', 'fraktion'])
 
 for child in root:
 	# print("\n### Mitglied des Bundestags ###")
@@ -25,10 +25,27 @@ for child in root:
 			if elem.tag == "NAMEN":
 				for namen in elem[-1]:
 					if namen.tag == "NACHNAME":
-						# print(namen.text)
+						print(namen.text)
 						mdb_entry.append(namen.text)
 					if namen.tag == "VORNAME":
 						mdb_entry.append(namen.text)
+
+			if elem.tag == "BIOGRAFISCHE_ANGABEN":
+				for biografische_angaben in elem:
+					if biografische_angaben.tag == "GEBURTSDATUM":
+						mdb_entry.append(biografische_angaben.text)
+					if biografische_angaben.tag == "GEBURTSORT":
+						mdb_entry.append(biografische_angaben.text)
+					if biografische_angaben.tag == "GEBURTSLAND":
+						mdb_entry.append(biografische_angaben.text)
+					if biografische_angaben.tag == "GESCHLECHT":
+						mdb_entry.append(biografische_angaben.text)
+					if biografische_angaben.tag == "FAMILIENSTAND":
+						mdb_entry.append(biografische_angaben.text)
+					if biografische_angaben.tag == "RELIGION":
+						mdb_entry.append(biografische_angaben.text)
+					if biografische_angaben.tag == "BERUF":
+						mdb_entry.append(biografische_angaben.text)
 
 			# Detect legislative period and only add politicans of 20th German Bundestag
 			if elem.tag == "WAHLPERIODEN":
@@ -65,13 +82,14 @@ for child in root:
 											# if information about a fraction was already found, skip the entry
 											# bug: if the person changed the party during 20th bundestag, the first party is used
 											# after checking data, as of 21th May only Uwe Witt and Johannes Huber are affected by this
-											if len(mdb_entry) == 4:
+											if len(mdb_entry) == 11:
 												mdb_entry.append(institution.text)
 											addFraktion = False
 
 					# Check flag if data entry should be added to data frame
 					if add == True:
-								mdb_list.loc[len(mdb_list.index)] = mdb_entry	
+						print(mdb_entry)
+						mdb_list.loc[len(mdb_list.index)] = mdb_entry	
 
 			# TODO: Add more available information to the table
 
@@ -85,13 +103,6 @@ for child in root:
 			# Historie_Bis
 
 			## Biografische Angaben ##
-			# Geburtsdatum
-			# Geburtsort
-			# Geburtsland
-			# Geschlecht
-			# Familienstand
-			# Religion
-			# Beruf
 			# Partei_Kurz
 			# Vita_Kurz
 			# Veröffentlichpflichtiges
