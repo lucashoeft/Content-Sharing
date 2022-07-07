@@ -1,0 +1,2197 @@
+Source;Target;Tie_type;Weight
+ABaerbockArchiv;ABaerbockArchiv;same person;1
+ABaerbockArchiv;GoeringEckardt;strong;1
+ABaerbockArchiv;GruenClaudia;strong;1
+ABaerbockArchiv;MiKellner;strong;2
+ABaerbockArchiv;agnieszka_mdb;strong;1
+ABaerbockArchiv;fbrantner;strong;1
+ABaerbockArchiv;filizgreen;strong;1
+AWidmannMauz;AWidmannMauz;same person;4
+AWidmannMauz;GoeringEckardt;weak;1
+AWidmannMauz;HBraun;weak;1
+AWidmannMauz;HeikoMaas;strong;1
+AWidmannMauz;KLeikert;strong;1
+AWidmannMauz;KarambaDiaby;weak;1
+AWidmannMauz;PaulZiemiak;strong;2
+AWidmannMauz;filizgreen;weak;1
+AWidmannMauz;nouripour;no tie;1
+AWidmannMauz;rbrinkhaus;strong;2
+A_Gloeckner;A_Gloeckner;same person;2
+A_Gloeckner;Bundeskanzler;no tie;1
+A_Gloeckner;FrankSchwabe;strong;1
+A_Gloeckner;HeikoMaas;weak;1
+A_Gloeckner;KuehniKev;strong;1
+A_Gloeckner;OlafScholz;strong;1
+A_Gloeckner;ThomasHitschler;strong;1
+A_Gloeckner;UliGroetsch;strong;1
+A_Gloeckner;baerbelbas;strong;1
+A_Gloeckner;hubertus_heil;strong;4
+A_Gloeckner;larsklingbeil;strong;1
+A_Gloeckner;oezoguz;strong;1
+A_Gloeckner;schneidercar;strong;1
+Achim_P;s_schwartze;strong;1
+AfDProtschka;AfDProtschka;same person;8
+AfDProtschka;Beatrix_vStorch;strong;2
+AfDProtschka;Dr_Rainer_Kraft;strong;1
+AfDProtschka;M_Reichardt_AfD;strong;1
+AfDProtschka;Tino_Chrupalla;strong;1
+AkbulutGokay;AkbulutGokay;same person;3
+AkbulutGokay;CarenLay;strong;1
+AkbulutGokay;DietmarBartsch;weak;1
+AkbulutGokay;MartinaRenner;strong;1
+AkbulutGokay;SusanneHennig;weak;1
+AkbulutGokay;filizgreen;weak;2
+Amira_M_Ali;GregorGysi;strong;1
+Amira_M_Ali;b_riexinger;strong;1
+Amira_M_Ali;c_lindner;no tie;1
+Amira_M_Ali;jankortemdb;strong;2
+AnAudretsch;AnAudretsch;same person;2
+AnAudretsch;GrueneBeate;strong;1
+AnAudretsch;PaulZiemiak;weak;1
+AnAudretsch;Thomas_Bareiss;no tie;1
+AnAudretsch;svenlehmann;strong;1
+AndreaLindholz;DoroBaer;strong;2
+AndreaLindholz;JoWadephul;strong;1
+Andreas_Rimkus;Andreas_Rimkus;same person;2
+Andreas_Rimkus;BerndWestphal4;weak;1
+Andreas_Rimkus;FalkoMohrs;strong;1
+Andreas_Rimkus;FrankSchwabe;strong;1
+Andreas_Rimkus;OlafScholz;strong;4
+Andreas_Rimkus;dieschmidt;strong;1
+Andreas_Rimkus;hubertus_heil;strong;1
+AndrejHunko;AndrejHunko;same person;139
+AndrejHunko;Lambsdorff;no tie;1
+AnikoMerten;AnikoMerten;same person;2
+AnikoMerten;c_lindner;strong;1
+AnikoMerten;ria_schroeder;strong;1
+AnnaLuehrmann;ABaerbockArchiv;weak;1
+AnnaLuehrmann;BriHasselmann;strong;1
+AnnaLuehrmann;LamyaKaddor;no tie;1
+AnnaLuehrmann;MiRo_SPD;strong;1
+AnnaLuehrmann;Ricarda_Lang;strong;1
+AnnaLuehrmann;andreasscheuer;no tie;1
+AnnaLuehrmann;badulrichmartha;no tie;1
+AnnaLuehrmann;nouripour;strong;1
+AnnaLuehrmann;till_steffen;strong;1
+AnneSpallek;ManuelaRottman;strong;1
+AnneSpallek;MiKellner;strong;1
+AnneSpallek;Oliver_Krischer;strong;2
+AnneSpallek;OpheliaNick;strong;1
+AnneSpallek;RenateKuenast;strong;1
+AnneSpallek;Thomas_Bareiss;no tie;1
+AnneSpallek;cem_oezdemir;strong;1
+AnneSpallek;cj_schroeder;strong;1
+AnneSpallek;ebner_sha;strong;1
+AnniKlose;AnniKlose;same person;3
+AnniKlose;stuewer;strong;1
+AntjeTillmann;OlafScholz;weak;1
+ArianeFaescher;MiRo_SPD;no tie;1
+ArianeFaescher;OlafScholz;weak;1
+ArmandZorn;Bundeskanzler;weak;1
+ArmandZorn;hubertus_heil;weak;1
+ArminGrau;Karl_Lauterbach;weak;2
+ArminGrau;Ricarda_Lang;strong;1
+ArminLaschet;ArminLaschet;same person;1
+ArminLaschet;Oliver_Krischer;weak;2
+AtesGuerpinar;b_riexinger;strong;2
+AwetTesfaiesus;ABaerbockArchiv;no tie;2
+BaerbelKofler;BaerbelKofler;same person;3
+BaerbelKofler;HeikoMaas;strong;3
+Beatrix_vStorch;ArminLaschet;weak;1
+Beatrix_vStorch;Beatrix_vStorch;same person;3
+Beatrix_vStorch;DjirSarai;no tie;1
+Beatrix_vStorch;GtzFrmming;strong;2
+Beatrix_vStorch;HBraun;no tie;1
+Beatrix_vStorch;HeikoMaas;weak;3
+Beatrix_vStorch;Karl_Lauterbach;weak;2
+Beatrix_vStorch;KonstantinKuhle;no tie;2
+Beatrix_vStorch;VolkerUllrich;no tie;1
+Beatrix_vStorch;f_schaeffler;strong;1
+BengtBergt;KuehniKev;strong;2
+BengtBergt;Timon_Gremmels;strong;1
+BerndWestphal4;Karl_Lauterbach;weak;1
+BerndWestphal4;OlafScholz;strong;2
+BerndWestphal4;hubertus_heil;strong;2
+BerndWestphal4;stadler_svenja;strong;1
+BetMueller;OlafScholz;strong;1
+BettinaLugk;ernst_klaus;no tie;1
+BettinaLugk;jankortemdb;no tie;1
+BettinaLugk;oezdemir_spd;weak;1
+BraFDP;JBrandenburgFDP;strong;1
+BraFDP;KonstantinKuhle;strong;1
+BraFDP;ManuelHoeferlin;strong;1
+BraFDP;Meyer_FDP;strong;1
+BraFDP;StefanKeuterAfD;no tie;1
+BraFDP;Wissing;strong;1
+BraFDP;c_lindner;strong;1
+BraFDP;ebner_sha;no tie;1
+BraFDP;torstenherbst;strong;1
+BriHasselmann;BriHasselmann;same person;2
+BriHasselmann;GoeringEckardt;strong;1
+BriHasselmann;IreneMihalic;strong;1
+BriHasselmann;Karl_Lauterbach;weak;1
+BriHasselmann;ManuelaRottman;strong;2
+BriHasselmann;MiKellner;strong;2
+BriHasselmann;Oliver_Krischer;strong;2
+BriHasselmann;PaulZiemiak;strong;2
+BriHasselmann;RenateKuenast;strong;1
+BriHasselmann;TabeaRoessner;strong;1
+BriHasselmann;agnieszka_mdb;strong;1
+BriHasselmann;katdro;strong;2
+BriHasselmann;nouripour;strong;1
+BriHasselmann;sven_kindler;strong;2
+BriHasselmann;tobiaslindner;strong;1
+Bruno_Hoenel;GoeringEckardt;strong;1
+Bruno_Hoenel;OlafScholz;weak;1
+Bruno_Hoenel;RenateKuenast;weak;1
+Bruno_Hoenel;jamila_anna;weak;1
+Bruno_Hoenel;jensspahn;no tie;1
+Bruno_Hoenel;larsklingbeil;weak;1
+Bruno_Hoenel;svenlehmann;strong;2
+Bruno_Hoenel;ulle_schauws;strong;1
+Bubendorferfdp;KonstantinKuhle;strong;3
+Bubendorferfdp;bstrasser;strong;2
+Bubendorferfdp;c_lindner;strong;2
+C_AB_;C_AB_;same person;1
+C_AB_;MartinaRenner;strong;1
+C_AB_;c_lindner;no tie;1
+C_AB_;f_schaeffler;no tie;1
+C_AB_;wanderwitz;strong;1
+CanselK;CanselK;same person;3
+CanselK;JM_Luczak;weak;1
+CanselK;JensZSPD;weak;1
+CanselK;PaulZiemiak;no tie;1
+CanselK;Wissing;weak;3
+CanselK;f_schaeffler;strong;1
+CanselK;fbrantner;no tie;1
+CanselK;hubertus_heil;strong;2
+CanselK;schneidercar;strong;1
+CanselK;stuewer;strong;1
+CarenLay;ABaerbockArchiv;strong;1
+CarenLay;CarenLay;same person;3
+CarenLay;DietmarBartsch;strong;1
+CarenLay;JM_Luczak;strong;2
+CarenLay;Janine_Wissler;strong;1
+CarenLay;LINKEPELLI;strong;1
+CarenLay;MartinaRenner;strong;1
+CarenLay;SusanneHennig;strong;1
+CarenLay;katjakipping;strong;1
+CarlosKasperMdB;EskenSaskia;weak;1
+CarlosKasperMdB;KuehniKev;strong;1
+CarlosKasperMdB;OlafScholz;strong;1
+CarlosKasperMdB;TKuban96;no tie;1
+CarlosKasperMdB;christianduerr;no tie;1
+CarlosKasperMdB;ria_schroeder;no tie;1
+CarstenTraeger;UliGroetsch;strong;1
+CarstenTraeger;dittmarsabine;strong;1
+CarstenTraeger;schneidercar;strong;1
+ChrWirthMdB;andreasbleckmdb;strong;1
+Chr_Sauter;MarcoBuschmann;strong;1
+Chr_Sauter;f_schaeffler;strong;3
+Chr_Sauter;hacker_fdp;strong;1
+ChrisKuehn_mdb;ABaerbockArchiv;strong;3
+ChrisKuehn_mdb;DerLenzMdB;strong;1
+ChrisKuehn_mdb;JM_Luczak;weak;1
+ChrisKuehn_mdb;LieblingXhain;strong;1
+ChrisKuehn_mdb;MiKellner;strong;1
+ChrisKuehn_mdb;Ricarda_Lang;strong;1
+ChrisKuehn_mdb;Thomas_Bareiss;strong;2
+ChrisKuehn_mdb;herr_emmerich;strong;1
+ChrisKuehn_mdb;janoschdahmen;strong;1
+ChrisKuehn_mdb;katdro;strong;1
+ChrisKuehn_mdb;sven_kindler;strong;2
+ChrisKuehn_mdb;ulle_schauws;strong;1
+ChristianHaase6;Bundeskanzler;no tie;1
+ChristianHaase6;MarcoBuschmann;no tie;1
+ChristianHaase6;MatthiasHauer;strong;1
+ChristianHirte;ChristianHirte;same person;4
+ChristianHirte;DoroBaer;strong;1
+ChristianHirte;GoeringEckardt;weak;1
+ChristianHirte;Kaiser_SPD;weak;1
+ChristianHirte;Karl_Lauterbach;weak;1
+ChristianHirte;KuehniKev;strong;1
+ChristianHirte;SusanneHennig;weak;1
+ChristianHirte;meister_schafft;strong;1
+ChristianHirte;smuellermdb;strong;1
+ClaudiaMollMdB;schneidercar;strong;1
+Conni_Moehring;C_AB_;strong;1
+Conni_Moehring;Conni_Moehring;same person;5
+Conni_Moehring;Karl_Lauterbach;weak;1
+Conni_Moehring;NicoleGohlke;strong;1
+Conni_Moehring;voglerk;strong;1
+DFoest;DFoest;same person;6
+DFoest;Meyer_FDP;strong;1
+DFoest;Wissing;strong;2
+DFoest;c_lindner;strong;1
+DFoest;f_schaeffler;strong;1
+DJanecek;BriHasselmann;strong;1
+DJanecek;PaulaPiechotta;strong;1
+DJanecek;annachristmann;strong;1
+DJanecek;f_schaeffler;weak;1
+DaniLudwigMdB;AfDProtschka;no tie;1
+DaniLudwigMdB;ArminLaschet;strong;1
+DaniLudwigMdB;JM_Luczak;strong;1
+DaniLudwigMdB;hahnflo;strong;2
+DaniLudwigMdB;rbrinkhaus;strong;1
+DaniLudwigMdB;smuellermdb;strong;2
+DanielaKluckert;DanielaKluckert;same person;2
+DanielaKluckert;DjirSarai;strong;1
+DanielaKluckert;LindaTeuteberg;weak;1
+DanielaKluckert;MarcusFaber;strong;1
+DanielaKluckert;Meyer_FDP;strong;3
+DanielaKluckert;Wissing;strong;1
+DanielaKluckert;annachristmann;weak;1
+DanielaKluckert;c_lindner;strong;2
+DanielaKluckert;f_schaeffler;strong;1
+DanielaKluckert;florian_toncar;strong;1
+DanielaKluckert;ria_schroeder;strong;1
+DanielaKluckert;starkwatzinger;strong;4
+DeborahDuering;Ricarda_Lang;strong;1
+DerLenzMdB;DerLenzMdB;same person;2
+DerLenzMdB;Oliver_Krischer;weak;1
+DerLenzMdB;badulrichmartha;no tie;1
+DietmarBartsch;ArminLaschet;no tie;1
+DietmarBartsch;DietmarBartsch;same person;3
+DietmarBartsch;GregorGysi;strong;1
+DietmarBartsch;Karl_Lauterbach;strong;1
+DietmarBartsch;KonstantinNotz;no tie;1
+DietmarBartsch;LINKEPELLI;strong;1
+DietmarBartsch;OlafScholz;strong;1
+DietmarBartsch;SevimDagdelen;strong;1
+DietmarBartsch;SusanneHennig;strong;1
+DietmarBartsch;svenlehmann;strong;1
+DirkSpaniel;DirkSpaniel;same person;332
+DirkSpaniel;Dr_Rainer_Kraft;strong;1
+DirkSpaniel;HeikoMaas;no tie;1
+DirkSpaniel;IreneMihalic;no tie;1
+DirkWieseSPD;Achim_P;strong;1
+DirkWieseSPD;JM_Luczak;no tie;1
+DirkWieseSPD;KonstantinKuhle;strong;1
+DirkWieseSPD;MetinHakverdi;strong;1
+DirkWieseSPD;OlafScholz;strong;1
+DirkWieseSPD;ThomasHitschler;strong;1
+DjirSarai;HeikoMaas;weak;3
+DjirSarai;florian_toncar;strong;1
+DoroBaer;DoroBaer;same person;1
+DoroBaer;HBraun;strong;1
+DoroBaer;hahnflo;strong;1
+DoroBaer;hubertus_heil;strong;1
+DoroBaer;smuellermdb;strong;2
+Doro_Martin;Doro_Martin;same person;1
+Doro_Martin;HeikoMaas;strong;1
+Doro_Martin;KarambaDiaby;weak;2
+Doro_Martin;Karl_Lauterbach;weak;1
+Doro_Martin;MiRo_SPD;strong;1
+Doro_Martin;MuellerChemnitz;strong;2
+Doro_Martin;OlafScholz;strong;1
+Doro_Martin;SoenkeRix;strong;1
+Doro_Martin;hubertus_heil;strong;1
+Doro_Martin;larsklingbeil;strong;1
+DrJoeWeingarten;Karl_Lauterbach;weak;1
+DrJoeWeingarten;Oliver_Krischer;no tie;1
+DrMEspendiller;Beatrix_vStorch;strong;1
+DrMEspendiller;DJanecek;no tie;1
+DrMEspendiller;M_Reichardt_AfD;strong;1
+DrMEspendiller;PeterFelser;strong;1
+DrMEspendiller;SteffenBilger;no tie;1
+DrMEspendiller;annachristmann;weak;1
+Dr_Pantazis;HeikoMaas;weak;1
+Dr_Pantazis;Karl_Lauterbach;weak;2
+Dr_Pantazis;KuehniKev;strong;1
+Dr_Pantazis;baerbelbas;strong;1
+Dr_Pantazis;c_lindner;weak;1
+Dr_Pantazis;hubertus_heil;strong;3
+Dr_Pantazis;janoschdahmen;strong;1
+Dr_Pantazis;larsklingbeil;strong;1
+Dr_Rainer_Kraft;DirkSpaniel;strong;1
+Dr_Rainer_Kraft;Dr_Rainer_Kraft;same person;1
+Dr_Rainer_Kraft;JudithSkudelny;weak;1
+Dr_Rainer_Kraft;MalteKaufmann;no tie;1
+Dr_Rainer_Kraft;PaulZiemiak;weak;2
+Dr_Rainer_Kraft;Th_Seitz_AfD;strong;1
+Dr_Rainer_Kraft;Thomas_Bareiss;no tie;1
+Dr_Rainer_Kraft;b_riexinger;no tie;2
+Dr_Rainer_Kraft;hahnflo;no tie;1
+Dr_Rainer_Kraft;katdro;no tie;1
+Dr_Rainer_Kraft;larsklingbeil;no tie;1
+EUTheurer;EUTheurer;same person;2
+EUTheurer;JudithSkudelny;strong;1
+EUTheurer;MGrosseBroemer;strong;1
+EUTheurer;Wissing;strong;1
+EUTheurer;c_lindner;strong;1
+EUTheurer;christianduerr;strong;1
+EUTheurer;starkwatzinger;strong;1
+EVMGreifswald;AnniKlose;not available;1
+EVMGreifswald;OlafScholz;not available;1
+EVMGreifswald;groehe;not available;1
+El_KaWeh_;Timon_Gremmels;strong;2
+Erhard_Grundl;BriHasselmann;strong;1
+Erhard_Grundl;Erhard_Grundl;same person;3
+Erhard_Grundl;GoeringEckardt;strong;1
+Erhard_Grundl;PaulZiemiak;weak;1
+Erhard_Grundl;Ricarda_Lang;strong;1
+Erhard_Grundl;StefanGelbhaar;strong;1
+Erhard_Grundl;SteffiLemke;strong;2
+Erhard_Grundl;badulrichmartha;strong;1
+Erhard_Grundl;ekindeligoez;strong;1
+Erhard_Grundl;katdro;strong;3
+Erhard_Grundl;lisapaus;strong;1
+Erhard_Grundl;sven_kindler;strong;1
+Erwin_Rueddel;JoSteiniger;strong;1
+Erwin_Rueddel;JuliaKloeckner;strong;1
+Erwin_Rueddel;Karl_Lauterbach;no tie;1
+Erwin_Rueddel;MarcHenrichmann;strong;1
+Erwin_Rueddel;MatthiasHauer;strong;1
+Erwin_Rueddel;RenateKuenast;no tie;1
+Erwin_Rueddel;hahnflo;no tie;1
+EskenSaskia;AnniKlose;strong;1
+EskenSaskia;EskenSaskia;same person;4
+EskenSaskia;OlafScholz;strong;1
+EskenSaskia;baerbelbas;strong;1
+EsraLimbacher;HeikoMaas;strong;1
+EsraLimbacher;OlafScholz;strong;1
+FBsirske;Ricarda_Lang;strong;1
+FHeiligenstadt;KuehniKev;strong;1
+FKerstenMdB;Karl_Lauterbach;weak;1
+FKerstenMdB;OlafScholz;weak;1
+FKerstenMdB;SteffenBilger;no tie;1
+FalkoMohrs;OlafScholz;strong;1
+FalkoMohrs;Timon_Gremmels;strong;1
+FalkoMohrs;larsklingbeil;weak;1
+FalkoMohrs;tj_tweets;no tie;1
+FrankSchwabe;BaerbelKofler;strong;1
+Frohnmaier_AfD;Frohnmaier_AfD;same person;1
+Frohnmaier_AfD;HeikoMaas;no tie;1
+Frohnmaier_AfD;helgelindh;no tie;1
+Frohnmaier_AfD;jamila_anna;no tie;1
+G_UllrichFDP;DFoest;strong;1
+G_UllrichFDP;DanielaKluckert;strong;1
+G_UllrichFDP;DjirSarai;strong;1
+G_UllrichFDP;GydeJ;weak;1
+G_UllrichFDP;Kai_Whittaker;no tie;1
+G_UllrichFDP;Karl_Lauterbach;weak;1
+G_UllrichFDP;KonstantinKuhle;strong;2
+G_UllrichFDP;SWagenknecht;no tie;1
+G_UllrichFDP;UllmannMdB;strong;1
+G_UllrichFDP;alexmuellerfdp;strong;1
+G_UllrichFDP;c_lindner;strong;3
+G_UllrichFDP;christianduerr;strong;1
+G_UllrichFDP;jensspahn;weak;1
+G_UllrichFDP;johannesvogel;strong;1
+G_UllrichFDP;schneidercar;no tie;1
+G_UllrichFDP;torstenherbst;strong;1
+GaHeinrich;FrankSchwabe;strong;2
+GaHeinrich;HeikoMaas;weak;1
+GansGruen;ChrisKuehn_mdb;strong;1
+GansGruen;Erhard_Grundl;weak;1
+GansGruen;GansGruen;same person;1
+GansGruen;MiKellner;strong;1
+GansGruen;Oliver_Krischer;no tie;1
+GansGruen;SaschaMuller;strong;1
+GansGruen;nyke_slawik;strong;2
+GansGruen;ulle_schauws;strong;2
+GeroHocker;HeikoMaas;weak;2
+GeroHocker;JanaSchimke;no tie;1
+GeroHocker;Oliver_Krischer;weak;1
+GeroHocker;OpheliaNick;no tie;1
+GeroHocker;StefWenzel;no tie;1
+GeroHocker;c_lindner;strong;3
+GeroHocker;ebner_sha;weak;2
+GeroHocker;f_schaeffler;strong;1
+GerritHuy;GerritHuy;same person;1
+GoeringEckardt;ABaerbockArchiv;strong;2
+GoeringEckardt;DoroBaer;strong;1
+GoeringEckardt;GoeringEckardt;same person;4
+GoeringEckardt;KonstantinKuhle;strong;1
+GoeringEckardt;LamyaKaddor;strong;1
+GoeringEckardt;MiKellner;strong;1
+GoeringEckardt;Ricarda_Lang;strong;2
+GoeringEckardt;jamila_anna;strong;1
+GoeringEckardt;janoschdahmen;strong;1
+GottfriedCurio;ABaerbockArchiv;no tie;1
+GregorGysi;GregorGysi;same person;5
+GruenClaudia;ABaerbockArchiv;strong;2
+GruenClaudia;BriHasselmann;strong;1
+GruenClaudia;GruenClaudia;same person;4
+GruenClaudia;ManuelaRottman;strong;1
+GruenClaudia;OlafScholz;no tie;1
+GruenClaudia;PaulZiemiak;weak;1
+GruenClaudia;Ricarda_Lang;strong;1
+GruenClaudia;Thomas_Bareiss;weak;2
+GruenClaudia;cem_oezdemir;strong;1
+GruenClaudia;ekindeligoez;strong;1
+GruenClaudia;ernst_klaus;no tie;1
+GruenClaudia;schneidercar;weak;1
+GruenClaudia;smuellermdb;no tie;1
+GrueneBeate;BriHasselmann;strong;1
+GrueneBeate;ChrisKuehn_mdb;strong;2
+GrueneBeate;MariaKlSchmeink;strong;2
+GrueneBeate;Ricarda_Lang;strong;1
+GrueneBeate;crueffer;strong;4
+GrueneBeate;detzer_sandra;strong;1
+GrueneBeate;ekindeligoez;strong;1
+GrueneBeate;fbanaszak;strong;1
+GrueneBeate;fbrantner;strong;1
+GrueneBeate;janoschdahmen;strong;1
+GrueneBeate;jensspahn;weak;1
+GrueneBeate;johannesvogel;strong;1
+GrueneBeate;larsklingbeil;weak;1
+GrueneBeate;lisapaus;strong;1
+GrueneBeate;svenlehmann;strong;2
+GtzFrmming;PaulZiemiak;weak;1
+GtzFrmming;jensspahn;weak;2
+GydeJ;DjirSarai;strong;2
+GydeJ;GydeJ;same person;1
+GydeJ;HeikoMaas;weak;1
+GydeJ;KLeikert;weak;1
+GydeJ;MAStrackZi;strong;1
+GydeJ;TKuban96;no tie;1
+GydeJ;Thomas_Bareiss;no tie;1
+GydeJ;c_lindner;strong;1
+HBraun;MGrosseBroemer;strong;1
+HPFriedrichCSU;KonstantinNotz;weak;1
+HakanDemirNK;KarambaDiaby;strong;1
+HakanDemirNK;KuehniKev;strong;1
+HanSteinmueller;ABaerbockArchiv;weak;1
+Hannes_Gnauck;MAStrackZi;weak;1
+HeidiReichinnek;OlafScholz;weak;1
+HeidiReichinnek;PaulZiemiak;no tie;1
+HeidiReichinnek;SusanneHennig;strong;1
+HeidiReichinnek;b_riexinger;strong;1
+HeikoMaas;HeikoMaas;same person;12
+HeikoMaas;OlafScholz;strong;1
+Helge_Limburg;Helge_Limburg;same person;1
+Helge_Limburg;KonstantinNotz;strong;1
+Helge_Limburg;Oliver_Krischer;strong;1
+Helge_Limburg;StefWenzel;strong;1
+Helge_Limburg;jamila_anna;weak;1
+Helge_Limburg;ria_schroeder;no tie;1
+Helge_Limburg;sven_kindler;strong;1
+Helge_Limburg;till_steffen;strong;1
+HellmichMdB;HellmichMdB;same person;2
+HellmichMdB;KaczmarekOliver;strong;1
+HellmichMdB;OlafScholz;strong;1
+HellmichMdB;ThomasHitschler;strong;1
+HellmichMdB;Timon_Gremmels;strong;1
+HellmichMdB;baerbelbas;strong;1
+HellmichMdB;s_schwartze;strong;1
+HellmichMdB;sebast_hartmann;strong;1
+HellmichMdB;tobiaslindner;strong;1
+HenningOtteMdB;smuellermdb;no tie;1
+HerbrandMarkus;DjirSarai;strong;1
+HerbrandMarkus;EUTheurer;strong;1
+HerbrandMarkus;HBraun;weak;1
+HerbrandMarkus;OlafScholz;weak;1
+HerbrandMarkus;c_lindner;strong;1
+HerbrandMarkus;christianduerr;strong;1
+HerbrandMarkus;f_schaeffler;strong;1
+HerbrandMarkus;kathabeck;strong;1
+HoffmannForest;BaerbelKofler;no tie;1
+HoffmannForest;DFoest;strong;1
+HoffmannForest;DanielaKluckert;strong;1
+HoffmannForest;DjirSarai;strong;1
+HoffmannForest;EUTheurer;strong;3
+HoffmannForest;FrankSchwabe;no tie;1
+HoffmannForest;HeikoMaas;strong;3
+HoffmannForest;JBrandenburgFDP;strong;4
+HoffmannForest;Kai_Whittaker;no tie;1
+HoffmannForest;Karl_Lauterbach;weak;1
+HoffmannForest;KonstantinKuhle;weak;2
+HoffmannForest;Lambsdorff;weak;1
+HoffmannForest;LindaTeuteberg;weak;1
+HoffmannForest;MAStrackZi;strong;1
+HoffmannForest;Meyer_FDP;strong;2
+HoffmannForest;Otto_Fricke;weak;1
+HoffmannForest;StephanThomae;strong;1
+HoffmannForest;UllmannMdB;strong;2
+HoffmannForest;VolkerUllrich;no tie;2
+HoffmannForest;bstrasser;strong;3
+HoffmannForest;c_lindner;strong;4
+HoffmannForest;cad59;strong;1
+HoffmannForest;cem_oezdemir;weak;1
+HoffmannForest;christianduerr;strong;1
+HoffmannForest;f_schaeffler;strong;5
+HoffmannForest;florian_toncar;strong;5
+HoffmannForest;jankortemdb;no tie;1
+HoffmannForest;johannesvogel;strong;1
+HoffmannForest;michael_g_link;strong;2
+HoffmannForest;nicole_ae_bauer;strong;1
+HoffmannForest;starkwatzinger;strong;3
+HoffmannForest;th_sattelberger;strong;1
+HoffmannForest;theliberalfrank;strong;1
+HoffmannForest;torstenherbst;strong;1
+HolgerMannLE;OlafScholz;weak;4
+HolgerMannLE;hubertus_heil;weak;1
+HolgerMannLE;larsklingbeil;strong;1
+HolgerMannLE;rasha_nasr_;strong;1
+HoubenReinhard;BerndWestphal4;strong;1
+HoubenReinhard;BriHasselmann;no tie;1
+HoubenReinhard;Lambsdorff;strong;1
+HoubenReinhard;MarcoBuschmann;strong;2
+HoubenReinhard;UllmannMdB;strong;1
+HoubenReinhard;c_lindner;strong;7
+IngoBodtke;IngoBodtke;same person;1
+Ingrid_Nestle;ABaerbockArchiv;strong;1
+Ingrid_Nestle;MatthiasGastel;strong;1
+Ingrid_Nestle;Thomas_Bareiss;strong;1
+IreneMihalic;GoeringEckardt;strong;1
+IreneMihalic;IreneMihalic;same person;3
+IreneMihalic;Leckert_;strong;1
+IreneMihalic;Ricarda_Lang;strong;1
+IreneMihalic;Thomas_Bareiss;weak;1
+IreneMihalic;janoschdahmen;strong;1
+IreneMihalic;sven_kindler;weak;1
+IsabelMackensen;Doro_Martin;strong;1
+IsabelMackensen;MDiedenhofen;strong;1
+JBrandenburgFDP;JBrandenburgFDP;same person;5
+JBrandenburgFDP;PaulZiemiak;weak;1
+JBrandenburgFDP;hubertus_heil;weak;1
+JBrandenburgFDP;mesarosch;no tie;1
+JBrandenburgFDP;starkwatzinger;strong;1
+JM_Luczak;Bundeskanzler;weak;1
+JM_Luczak;CanselK;weak;1
+JM_Luczak;JM_Luczak;same person;4
+JM_Luczak;Karl_Lauterbach;weak;1
+JM_Luczak;MarcoBuschmann;strong;1
+JM_Luczak;OlafScholz;weak;3
+JM_Luczak;SerapGueler;strong;1
+JM_Luczak;jensspahn;strong;2
+JN_Gesenhues;JN_Gesenhues;same person;5
+JN_Gesenhues;MariaKlSchmeink;strong;1
+JN_Gesenhues;Oliver_Krischer;strong;1
+JN_Gesenhues;fbanaszak;strong;1
+JTrittin;GoeringEckardt;strong;1
+JTrittin;JTrittin;same person;1
+JTrittin;MiKellner;strong;2
+JTrittin;Oliver_Krischer;strong;2
+JTrittin;Ricarda_Lang;strong;1
+JTrittin;SteffiLemke;strong;1
+JTrittin;fbrantner;strong;2
+JTrittin;nouripour;strong;1
+J_Pahlke;C_AB_;strong;1
+J_Pahlke;HeikoMaas;weak;1
+J_Pahlke;KathrinAnna;strong;1
+J_Pahlke;PaulZiemiak;weak;2
+J_Pahlke;Ricarda_Lang;strong;1
+J_Pahlke;TKuban96;weak;1
+J_Pahlke;cj_schroeder;strong;1
+J_Pahlke;jamila_anna;strong;1
+J_Pahlke;smuellermdb;no tie;2
+Jan_Nolte_AfD;Leif_Erik_Holm;strong;1
+JanaSchimke;ChristianHirte;weak;1
+JanaSchimke;HeikoMaas;no tie;1
+JanaSchimke;JM_Luczak;strong;1
+JanaSchimke;PaulZiemiak;strong;1
+JanaSchimke;jankortemdb;no tie;1
+Janine_Wissler;Janine_Wissler;same person;4
+JasminaHostert;HeikoMaas;strong;1
+JasminaHostert;OlafScholz;strong;1
+JensPeick;KuehniKev;strong;1
+JensZSPD;KonstantinNotz;strong;1
+JensZSPD;ManuelHoeferlin;strong;2
+JensZSPD;OlafScholz;strong;3
+JensZSPD;ThomasHitschler;strong;7
+JensZSPD;hubertus_heil;strong;1
+JensZSPD;larsklingbeil;strong;4
+JensZSPD;verenahubertz;strong;1
+JoSteiniger;Bundeskanzler;weak;1
+JoSteiniger;Erwin_Rueddel;strong;1
+JoSteiniger;JoSteiniger;same person;5
+JoSteiniger;Karl_Lauterbach;no tie;2
+JoSteiniger;KuehniKev;weak;1
+JoSteiniger;MatthiasHauer;strong;1
+JoSteiniger;c_lindner;weak;1
+JoSteiniger;jensspahn;strong;1
+JoSteiniger;larscastellucci;no tie;1
+JoWadephul;Bundeskanzler;weak;3
+JoWadephul;DietmarBartsch;weak;2
+JoWadephul;NilsSchmid;strong;1
+JoWadephul;OlafScholz;weak;1
+JoWadephul;c_lindner;weak;1
+JoWadephul;johannesvogel;strong;1
+JoanaCotar;HeikoMaas;weak;1
+JoanaCotar;KonstantinNotz;strong;1
+Jochen_Haug;Beatrix_vStorch;not available;1
+Jochen_Haug;ManuelHoeferlin;not available;1
+Jochen_Haug;RogerBeckamp;not available;1
+JudithSkudelny;JBrandenburgFDP;strong;2
+JudithSkudelny;JudithSkudelny;same person;1
+JudithSkudelny;MAStrackZi;strong;1
+JudithSkudelny;c_lindner;strong;3
+JuergenBraunAfD;Beatrix_vStorch;strong;1
+JuergenBraunAfD;BriHasselmann;no tie;1
+JuergenBraunAfD;Karl_Lauterbach;no tie;1
+JuergenBraunAfD;MarcoBuschmann;no tie;1
+JuliaKloeckner;DoroBaer;strong;1
+JuliaKloeckner;JoSteiniger;strong;1
+JuliaKloeckner;JuliaKloeckner;same person;2
+JuliaKloeckner;RenateKuenast;strong;1
+JuliaKloeckner;smuellermdb;strong;1
+KLeikert;ABaerbockArchiv;weak;1
+KLeikert;ArminLaschet;strong;1
+KLeikert;HBraun;strong;1
+KLeikert;HeikoMaas;weak;1
+KLeikert;JuliaKloeckner;strong;1
+KLeikert;Kai_Whittaker;strong;1
+KLeikert;KonstantinNotz;strong;1
+KLeikert;MarcoBuschmann;strong;3
+KLeikert;PaulZiemiak;strong;2
+KLeikert;RKiesewetter;strong;1
+KLeikert;Ricarda_Lang;weak;1
+KLeikert;SerapGueler;strong;1
+KLeikert;ThomasHeilmann;strong;1
+KLeikert;johannesvogel;strong;1
+KLeikert;tj_tweets;strong;2
+K_SA;BriHasselmann;strong;2
+K_SA;DJanecek;strong;1
+K_SA;Erhard_Grundl;strong;1
+K_SA;Erwin_Rueddel;strong;1
+K_SA;GoeringEckardt;strong;1
+K_SA;K_SA;same person;4
+K_SA;ManuelaRottman;strong;4
+K_SA;MariaKlSchmeink;strong;4
+K_SA;MiKellner;strong;1
+K_SA;Ricarda_Lang;strong;1
+K_SA;SteffiLemke;strong;1
+K_SA;W_SK;strong;1
+K_SA;annachristmann;strong;1
+K_SA;fbanaszak;strong;1
+K_SA;fbrantner;strong;1
+K_SA;janoschdahmen;strong;3
+KaczmarekOliver;FrankSchwabe;strong;1
+KaczmarekOliver;KaczmarekOliver;same person;1
+KaczmarekOliver;OlafScholz;strong;1
+KaczmarekOliver;hubertus_heil;strong;1
+KaiGehring;ABaerbockArchiv;strong;1
+KaiGehring;BriHasselmann;strong;1
+KaiGehring;Krawallstein;strong;1
+KaiGehring;PaulZiemiak;weak;1
+KaiGehring;Ricarda_Lang;strong;2
+KaiGehring;SWagenknecht;weak;1
+KaiGehring;c_lindner;weak;1
+KaiGehring;jankortemdb;weak;1
+Kai_Whittaker;AWidmannMauz;strong;1
+Kai_Whittaker;DerLenzMdB;strong;1
+Kai_Whittaker;JoWadephul;strong;1
+Kai_Whittaker;Kai_Whittaker;same person;1
+Kai_Whittaker;MarcusFaber;weak;1
+Kai_Whittaker;MiKellner;weak;1
+Kai_Whittaker;PaulZiemiak;strong;4
+Kai_Whittaker;W_SK;strong;1
+Kai_Whittaker;ernst_klaus;weak;1
+Kai_Whittaker;johannesvogel;strong;1
+Kai_Whittaker;tobiaslindner;strong;1
+Kaiser_SPD;FalkoMohrs;strong;1
+Kaiser_SPD;OlafScholz;strong;1
+Kaiser_SPD;schneidercar;strong;1
+KarambaDiaby;KarambaDiaby;same person;2
+KarambaDiaby;OlafScholz;strong;1
+Karl_Lauterbach;Karl_Lauterbach;same person;6
+Karl_Lauterbach;KonstantinKuhle;no tie;1
+Karl_Lauterbach;Lambsdorff;no tie;1
+Karl_Lauterbach;OlafScholz;strong;1
+Karl_Lauterbach;Ricarda_Lang;strong;1
+Karl_Lauterbach;c_lindner;strong;1
+Karl_Lauterbach;janoschdahmen;strong;1
+Karl_Lauterbach;svenlehmann;weak;1
+KathrinAnna;KathrinAnna;same person;1
+KathrinAnna;schahinag;strong;1
+KatjaKeul;badulrichmartha;strong;1
+KatjaKeul;filizgreen;strong;1
+KatjaMast;Bundeskanzler;weak;1
+KatjaMast;ChristianHirte;no tie;1
+KatjaMast;Karl_Lauterbach;weak;1
+KatjaMast;MarcoBuschmann;weak;1
+KatjaMast;Tino_Chrupalla;no tie;1
+KatjaMast;hubertus_heil;strong;5
+KatjaMast;schneidercar;strong;1
+KatrinHelling;KatrinHelling;same person;1
+KatrinHelling;UllmannMdB;strong;1
+KatrinHelling;c_lindner;strong;1
+KaufmannAfD;ArminLaschet;no tie;1
+KaufmannAfD;CarenLay;no tie;1
+KaufmannAfD;KaufmannAfD;same person;3
+KaufmannAfD;PetrBystronAfD;weak;1
+KaufmannAfD;Th_Seitz_AfD;strong;1
+KaufmannAfD;jankortemdb;no tie;1
+KayGottschalk1;KayGottschalk1;same person;26
+KayGottschalk1;Uwe_Schulz_AfD;strong;1
+KerstinGriese;Karl_Lauterbach;weak;1
+KerstinGriese;KerstinGriese;same person;2
+KerstinGriese;MiRo_SPD;strong;1
+KerstinGriese;NilsSchmid;strong;1
+KerstinGriese;OlafScholz;strong;5
+KerstinGriese;hubertus_heil;strong;19
+KerstinGriese;larsklingbeil;strong;1
+KerstinGriese;schneidercar;strong;1
+KirstenKappert;Erhard_Grundl;strong;1
+KirstenKappert;svenlehmann;strong;1
+KlausWiener;christianduerr;no tie;1
+KlausWiener;starkwatzinger;no tie;1
+KonradStockmei1;Karl_Lauterbach;no tie;1
+KonradStockmei1;MAStrackZi;strong;2
+KonradStockmei1;MarcoBuschmann;weak;1
+KonradStockmei1;UllmannMdB;strong;1
+KonradStockmei1;Wissing;weak;1
+KonradStockmei1;bstrasser;weak;1
+KonradStockmei1;c_lindner;weak;1
+KonradStockmei1;krusehamburg;strong;1
+KonstantinKuhle;GydeJ;strong;2
+KonstantinKuhle;KonstantinKuhle;same person;4
+KonstantinKuhle;Lambsdorff;strong;1
+KonstantinKuhle;MarcoBuschmann;strong;1
+KonstantinKuhle;c_lindner;strong;2
+KonstantinKuhle;f_schaeffler;strong;1
+KonstantinKuhle;jensteutrine;strong;1
+KonstantinKuhle;johannesvogel;strong;1
+KonstantinKuhle;ria_schroeder;strong;1
+KonstantinKuhle;smuellermdb;weak;1
+KonstantinKuhle;th_sattelberger;strong;1
+KonstantinNotz;BriHasselmann;strong;1
+KonstantinNotz;GoeringEckardt;strong;1
+KonstantinNotz;IreneMihalic;strong;1
+KonstantinNotz;JM_Luczak;weak;1
+KonstantinNotz;KonstantinNotz;same person;7
+KonstantinNotz;MGrosseBroemer;strong;1
+KonstantinNotz;MiKellner;strong;1
+KonstantinNotz;Ricarda_Lang;strong;1
+KonstantinNotz;TKuban96;strong;1
+KonstantinNotz;agnieszka_mdb;strong;1
+KonstantinNotz;c_lindner;strong;1
+KonstantinNotz;fbanaszak;weak;1
+KonstantinNotz;katdro;strong;1
+KonstantinNotz;nouripour;strong;1
+KonstantinNotz;sven_kindler;strong;1
+Krawallstein;Krawallstein;same person;1
+Krawallstein;OlafScholz;strong;1
+Krawallstein;starkwatzinger;weak;1
+KuehniKev;ChristianHirte;strong;1
+KuehniKev;HBraun;weak;1
+KuehniKev;JanaSchimke;no tie;1
+KuehniKev;JoSteiniger;weak;1
+KuehniKev;Karl_Lauterbach;strong;1
+KuehniKev;KuehniKev;same person;2
+KuehniKev;TKuban96;strong;1
+KuehniKev;f_schaeffler;weak;1
+KuehniKev;jensteutrine;strong;1
+LFLindemann;ABaerbockArchiv;weak;1
+LFLindemann;CarenLay;no tie;1
+LFLindemann;DanielaKluckert;strong;1
+LFLindemann;HBraun;weak;1
+LFLindemann;HeikoMaas;no tie;1
+LFLindemann;Karl_Lauterbach;weak;1
+LFLindemann;LFLindemann;same person;5
+LFLindemann;LoetzschMdB;no tie;1
+LFLindemann;MarioCzaja;strong;1
+LFLindemann;Meyer_FDP;strong;1
+LFLindemann;PetraPauMaHe;weak;1
+LFLindemann;SWagenknecht;weak;1
+LFLindemann;SevimDagdelen;no tie;1
+LFLindemann;Wissing;strong;3
+LFLindemann;olavgutting;weak;1
+LINKEPELLI;GregorGysi;weak;1
+LINKEPELLI;LINKEPELLI;same person;7
+Lambsdorff;ABaerbockArchiv;weak;1
+Lambsdorff;HeikoMaas;strong;2
+Lambsdorff;KonstantinKuhle;strong;4
+Lambsdorff;Lambsdorff;same person;10
+Lambsdorff;Oliver_Krischer;weak;1
+Lambsdorff;c_lindner;strong;2
+Lambsdorff;christianduerr;strong;1
+Lambsdorff;florian_toncar;strong;1
+Lambsdorff;hubertus_heil;strong;1
+Lambsdorff;jensteutrine;strong;1
+Lambsdorff;ria_schroeder;strong;1
+LamyaKaddor;LamyaKaddor;same person;2
+LamyaKaddor;Ricarda_Lang;strong;1
+Leif_Erik_Holm;Leif_Erik_Holm;same person;1
+Leif_Erik_Holm;ManuelHoeferlin;no tie;1
+Leif_Erik_Holm;bstrasser;no tie;1
+LeniBreymaier;HeikoMaas;strong;1
+LeniBreymaier;LeniBreymaier;same person;1
+LeniBreymaier;OlafScholz;strong;1
+LeniBreymaier;baerbelbas;strong;1
+LeniBreymaier;hubertus_heil;strong;2
+LeniBreymaier;larsklingbeil;strong;1
+LieblingXhain;KonstantinNotz;strong;1
+LieblingXhain;Lambsdorff;no tie;1
+LieblingXhain;LieblingXhain;same person;15
+LieblingXhain;Thomas_Bareiss;no tie;1
+LieblingXhain;svenlehmann;strong;1
+Lina_Seitzl;Karl_Lauterbach;weak;1
+Lina_Seitzl;KuehniKev;strong;1
+LindaTeuteberg;Bundeskanzler;no tie;1
+LindaTeuteberg;LindaTeuteberg;same person;6
+LindaTeuteberg;schneidercar;weak;1
+LoetzschMdB;CarenLay;strong;2
+LoetzschMdB;Conni_Moehring;strong;1
+LoetzschMdB;LoetzschMdB;same person;1
+LoetzschMdB;jankortemdb;strong;1
+LoetzschMdB;victorperli;strong;1
+LukasBenner_;LukasBenner_;same person;1
+MAStrackZi;MAStrackZi;same person;9
+MAStrackZi;MiRo_SPD;strong;1
+MAStrackZi;Otto_Fricke;weak;7
+MAStrackZi;alexmuellerfdp;strong;1
+MAStrackZi;starkwatzinger;strong;1
+MBiadaczMdB;HBraun;weak;1
+MBiadaczMdB;MarcusFaber;no tie;1
+MBiadaczMdB;NadineSchoen;strong;2
+MBiadaczMdB;PaulZiemiak;strong;1
+MBiadaczMdB;ThomasHeilmann;strong;1
+MBiadaczMdB;felixschreiner;strong;1
+MBiadaczMdB;rbrinkhaus;strong;2
+MGrosseBroemer;ABaerbockArchiv;strong;1
+MGrosseBroemer;BriHasselmann;strong;1
+MGrosseBroemer;DietmarBartsch;strong;1
+MGrosseBroemer;HBraun;strong;1
+MGrosseBroemer;JoWadephul;strong;1
+MGrosseBroemer;PaulZiemiak;strong;2
+MGrosseBroemer;SoenkeRix;no tie;1
+MGrosseBroemer;Thomas_Bareiss;strong;1
+MGrosseBroemer;c_lindner;strong;1
+MGrosseBroemer;jensspahn;strong;1
+MGrosseBroemer;rbrinkhaus;strong;1
+MGrosseBroemer;smuellermdb;strong;1
+MTodtenhausen;JBrandenburgFDP;strong;1
+MTodtenhausen;KatrinHelling;strong;1
+MTodtenhausen;c_lindner;strong;3
+MTodtenhausen;torstenherbst;weak;1
+MWBirkwald;MWBirkwald;same person;4
+M_HarderKuehnel;HeikoMaas;no tie;1
+M_HarderKuehnel;Tino_Chrupalla;strong;1
+M_Papendieck;OlafScholz;strong;1
+M_Reichardt_AfD;ABaerbockArchiv;weak;1
+M_Reichardt_AfD;BriHasselmann;weak;1
+M_Reichardt_AfD;EskenSaskia;weak;3
+M_Reichardt_AfD;GoeringEckardt;weak;1
+M_Reichardt_AfD;HeikoMaas;weak;1
+M_Reichardt_AfD;M_Reichardt_AfD;same person;3
+M_Reichardt_AfD;MiKellner;weak;1
+M_Reichardt_AfD;Ralf_Stegner;weak;1
+M_Reichardt_AfD;c_lindner;weak;1
+MalteKaufmann;MalteKaufmann;same person;2
+MalteKaufmann;larsklingbeil;no tie;1
+ManuelHoeferlin;ManuelHoeferlin;same person;2
+ManuelHoeferlin;MarcoBuschmann;strong;1
+ManuelHoeferlin;florian_toncar;strong;1
+ManuelHoeferlin;ulrichlechte;strong;1
+ManuelaRottman;GoeringEckardt;strong;1
+ManuelaRottman;ManuelaRottman;same person;1
+ManuelaRottman;MatthiasGastel;strong;1
+ManuelaRottman;filizgreen;strong;1
+ManuelaRottman;sven_kindler;strong;1
+MarcBernhardAfD;Leif_Erik_Holm;strong;1
+MarcBernhardAfD;MarcBernhardAfD;same person;3
+MarcHenrichmann;EskenSaskia;no tie;1
+MarcHenrichmann;JM_Luczak;strong;1
+MarcHenrichmann;PaulZiemiak;strong;1
+Marc_Jongen;Marc_Jongen;same person;1
+Marc_Jongen;MartinaRenner;no tie;1
+MarcoBuschmann;ArminLaschet;strong;1
+MarcoBuschmann;florian_toncar;strong;1
+MarcusFaber;ABaerbockArchiv;no tie;1
+MarcusFaber;MarcusFaber;same person;1
+MarcusFaber;Wissing;strong;1
+MarcusFaber;bstrasser;strong;1
+MarcusFaber;hahnflo;no tie;1
+MariaKlSchmeink;ABaerbockArchiv;strong;1
+MariaKlSchmeink;AnAudretsch;strong;1
+MariaKlSchmeink;BriHasselmann;strong;4
+MariaKlSchmeink;Erwin_Rueddel;strong;1
+MariaKlSchmeink;GrueneBeate;strong;1
+MariaKlSchmeink;K_SA;strong;1
+MariaKlSchmeink;KaiGehring;strong;1
+MariaKlSchmeink;Karl_Lauterbach;strong;2
+MariaKlSchmeink;MiKellner;strong;1
+MariaKlSchmeink;Oliver_Krischer;strong;1
+MariaKlSchmeink;fbanaszak;strong;1
+MariaKlSchmeink;katdro;strong;1
+MariaKlSchmeink;svenlehmann;strong;3
+MarjaVoellers;Achim_P;strong;2
+MarjaVoellers;FalkoMohrs;strong;1
+MarjaVoellers;baerbelbas;strong;5
+MarjaVoellers;hubertus_heil;strong;1
+MarjaVoellers;larsklingbeil;strong;2
+MartinGassner;bstrasser;strong;1
+Martin_Hess_AfD;HeikoMaas;weak;1
+Martin_Hess_AfD;MarcBernhardAfD;strong;2
+MartinaRenner;C_AB_;strong;2
+MartinaRenner;CarenLay;strong;2
+MartinaRenner;MartinaRenner;same person;23
+MartinaRenner;SWagenknecht;no tie;1
+MartinaRenner;VolkerUllrich;no tie;1
+MartinaRenner;bstrasser;strong;1
+MartinaRenner;hubertus_heil;no tie;1
+MartinaRenner;voglerk;strong;1
+MatthiasGastel;IreneMihalic;strong;1
+MatthiasGastel;MatthiasGastel;same person;2
+MatthiasGastel;fbrantner;strong;2
+MatthiasGastel;katdro;strong;1
+MatthiasGastel;nouripour;weak;1
+MatthiasHauer;Bundeskanzler;weak;2
+MatthiasHauer;MarcusFaber;weak;2
+MatthiasHauer;MatthiasHauer;same person;54
+MatthiasHauer;MiRo_SPD;strong;1
+MatthiasHauer;Ralf_Stegner;no tie;1
+MatthiasHauer;Ricarda_Lang;strong;1
+MatthiasHauer;c_lindner;no tie;1
+MdBKlein;LindaTeuteberg;weak;1
+MdBKlein;MdBKlein;same person;1
+MdBKlein;OlafScholz;weak;1
+MdBKlein;Otto_Fricke;strong;1
+MdBKlein;c_lindner;strong;2
+MechthildHeil;NadineSchoen;strong;1
+Mehli;Karl_Lauterbach;weak;1
+Mehli;Mehli;same person;13
+Mehli;c_lindner;no tie;1
+Mehli;larsklingbeil;weak;1
+MetinHakverdi;DirkWieseSPD;strong;2
+MetinHakverdi;Doro_Martin;strong;2
+MetinHakverdi;HeikoMaas;strong;1
+MetinHakverdi;MetinHakverdi;same person;1
+MetinHakverdi;NilsSchmid;strong;1
+MetinHakverdi;OlafScholz;strong;3
+MetinHakverdi;hubertus_heil;strong;1
+Meyer_FDP;EUTheurer;strong;1
+Meyer_FDP;HBraun;no tie;1
+Meyer_FDP;JoSteiniger;no tie;1
+Meyer_FDP;ManuelHoeferlin;strong;1
+Meyer_FDP;Meyer_FDP;same person;10
+Meyer_FDP;c_lindner;strong;1
+MiKellner;ABaerbockArchiv;strong;6
+MiKellner;BriHasselmann;strong;1
+MiKellner;ChrisKuehn_mdb;strong;1
+MiKellner;GrueneBeate;strong;1
+MiKellner;MiKellner;same person;2
+MiKellner;TKuban96;no tie;1
+MiKellner;Thomas_Bareiss;weak;1
+MiKellner;fbanaszak;strong;2
+MiKellner;filizgreen;strong;1
+MiKellner;katdro;strong;2
+MiKellner;smuellermdb;no tie;1
+MiRo_SPD;FrankSchwabe;strong;1
+MiRo_SPD;MiRo_SPD;same person;3
+Mi_Muentefering;BaerbelKofler;strong;1
+Mi_Muentefering;Bundeskanzler;weak;1
+Mi_Muentefering;HeikoMaas;strong;4
+Mi_Muentefering;MiRo_SPD;strong;1
+Mi_Muentefering;OlafScholz;strong;1
+MichaelFrieser;andreasscheuer;strong;1
+MichaelFrieser;smuellermdb;strong;1
+MuellerChemnitz;Andreas_Rimkus;strong;1
+MuellerChemnitz;DirkWieseSPD;strong;1
+MuellerChemnitz;Doro_Martin;strong;1
+MuellerChemnitz;Karl_Lauterbach;weak;2
+MuellerChemnitz;Krawallstein;strong;1
+MuellerChemnitz;MGrosseBroemer;no tie;1
+MuellerChemnitz;MuellerChemnitz;same person;1
+MuellerChemnitz;larsklingbeil;weak;1
+MuellerChemnitz;rasha_nasr_;strong;1
+NKleinwaechter;Beatrix_vStorch;strong;1
+NZippelius;Bundeskanzler;no tie;1
+NZippelius;GregorGysi;no tie;1
+NZippelius;RKiesewetter;strong;1
+NZippelius;Thomas_Bareiss;strong;1
+NadineSchoen;DoroBaer;strong;1
+NadineSchoen;HBraun;strong;1
+NadineSchoen;JM_Luczak;strong;1
+NadineSchoen;ThomasHeilmann;strong;1
+NadineSchoen;rbrinkhaus;strong;2
+NadineSchoen;tj_tweets;strong;1
+NicoTippelt;Wissing;weak;1
+NicoleGohlke;AkbulutGokay;strong;1
+NicoleGohlke;NicoleGohlke;same person;1
+NicoleWestig;KonstantinKuhle;strong;1
+NicoleWestig;LindaTeuteberg;weak;1
+NicoleWestig;UllmannMdB;strong;1
+NicoleWestig;Wissing;strong;2
+NicoleWestig;c_lindner;strong;2
+NicoleWestig;cad59;strong;2
+Nicole_Hoechst;Nicole_Hoechst;same person;1
+NielsAnnen;Bundeskanzler;weak;3
+NielsAnnen;DietmarBartsch;strong;2
+NielsAnnen;Doro_Martin;strong;1
+NielsAnnen;HeikoMaas;strong;7
+NielsAnnen;NilsSchmid;strong;1
+NielsAnnen;OlafScholz;strong;7
+NielsAnnen;ZaklinNastic;strong;1
+NielsAnnen;hubertus_heil;strong;1
+NilsSchmid;BaerbelKofler;strong;1
+NilsSchmid;DirkWieseSPD;strong;1
+NilsSchmid;OlafScholz;strong;1
+NinaScheer_SPD;Timon_Gremmels;strong;1
+OlafScholz;HeikoMaas;strong;1
+OlafScholz;OlafScholz;same person;4
+OlafScholz;larsklingbeil;strong;1
+OlafScholz;rasha_nasr_;strong;1
+OlafScholz;verenahubertz;strong;1
+Oliver_Krischer;ABaerbockArchiv;strong;3
+Oliver_Krischer;ArminLaschet;weak;4
+Oliver_Krischer;BriHasselmann;strong;5
+Oliver_Krischer;JTrittin;strong;1
+Oliver_Krischer;KaiGehring;strong;1
+Oliver_Krischer;MatthiasGastel;strong;1
+Oliver_Krischer;Oliver_Krischer;same person;3
+Oliver_Krischer;PaulZiemiak;no tie;1
+Oliver_Krischer;Ricarda_Lang;strong;1
+Oliver_Krischer;SteffiLemke;strong;1
+Oliver_Krischer;andreasscheuer;weak;1
+Oliver_Krischer;janoschdahmen;strong;1
+Oliver_Krischer;katdro;strong;1
+Oliver_Krischer;nouripour;strong;2
+OlliLuksic;ArminLaschet;weak;1
+OpheliaNick;DJanecek;weak;1
+OpheliaNick;RenateKuenast;strong;1
+OpheliaNick;Ricarda_Lang;strong;1
+OpheliaNick;cem_oezdemir;strong;3
+OpheliaNick;max_lucks;strong;1
+Ottilie_Klein;JM_Luczak;strong;1
+Ottilie_Klein;LieblingXhain;no tie;1
+Ottilie_Klein;Ottilie_Klein;same person;4
+Otto_Fricke;KuehniKev;strong;1
+Otto_Fricke;Otto_Fricke;same person;2
+Otto_Fricke;sven_kindler;strong;1
+ParsaMarvi;JTrittin;weak;1
+ParsaMarvi;OlafScholz;strong;1
+ParsaMarvi;fbrantner;weak;1
+PascalKober;svenlehmann;strong;1
+PaulZiemiak;ArminLaschet;strong;1
+PaulZiemiak;HeikoMaas;strong;1
+PaulZiemiak;Karl_Lauterbach;no tie;1
+PaulZiemiak;MiKellner;strong;1
+PaulZiemiak;PaulZiemiak;same person;1
+PaulZiemiak;TKuban96;strong;1
+PaulZiemiak;Thomas_Bareiss;strong;1
+PaulZiemiak;larsklingbeil;strong;2
+PaulaPiechotta;ABaerbockArchiv;strong;1
+PaulaPiechotta;Karl_Lauterbach;no tie;1
+PaulaPiechotta;ManuelaRottman;strong;1
+PaulaPiechotta;MdBKlein;strong;1
+PaulaPiechotta;PaulaPiechotta;same person;5
+PaulaPiechotta;cem_oezdemir;strong;1
+PaulaPiechotta;janoschdahmen;strong;2
+PaulaPiechotta;nouripour;strong;1
+PaulaPiechotta;sven_kindler;strong;1
+PeterBoehringer;PeterBoehringer;same person;1
+PeterFelser;AfDProtschka;strong;1
+PeterFelser;PeterFelser;same person;1
+PeterFelser;larsklingbeil;no tie;1
+PeterHeidtFDP;DanielaKluckert;strong;2
+PeterHeidtFDP;DjirSarai;strong;1
+PeterHeidtFDP;GydeJ;strong;2
+PeterHeidtFDP;MAStrackZi;strong;1
+PeterHeidtFDP;MarcusFaber;strong;1
+PeterHeidtFDP;PeterHeidtFDP;same person;1
+PeterHeidtFDP;StephanThomae;strong;1
+PeterHeidtFDP;Wissing;weak;1
+PeterHeidtFDP;c_lindner;strong;3
+PeterHeidtFDP;f_schaeffler;strong;1
+PeterHeidtFDP;starkwatzinger;strong;1
+Peter_Beyer;ArminLaschet;strong;2
+Peter_Beyer;KLeikert;strong;1
+Peter_Beyer;Pschnieder;strong;1
+Peter_Beyer;RKiesewetter;strong;1
+Peter_Beyer;groehe;weak;1
+Peter_Beyer;rbrinkhaus;strong;1
+PetrBystronAfD;GtzFrmming;strong;1
+PetrBystronAfD;HeikoMaas;weak;6
+PetrBystronAfD;JTrittin;weak;2
+PetrBystronAfD;Jan_Nolte_AfD;strong;1
+PetrBystronAfD;KonstantinKuhle;no tie;1
+PetrBystronAfD;Lambsdorff;weak;1
+PetrBystronAfD;NielsAnnen;weak;1
+PetrBystronAfD;PaulZiemiak;no tie;1
+PetrBystronAfD;PeterFelser;strong;1
+PetrBystronAfD;PetrBystronAfD;same person;5
+PetrBystronAfD;RogerBeckamp;weak;2
+PetrBystronAfD;larsklingbeil;no tie;1
+PetraPauMaHe;MartinaRenner;strong;1
+PetraPauMaHe;PetraPauMaHe;same person;10
+PetraPauMaHe;Petra_Sitte_MdB;strong;1
+PetraPauMaHe;sven_kindler;weak;1
+Petra_Sitte_MdB;DietmarBartsch;strong;1
+Petra_Sitte_MdB;LINKEPELLI;strong;1
+Petra_Sitte_MdB;NicoleGohlke;strong;1
+Petra_Sitte_MdB;anked;strong;1
+PhiKraemer;MiKellner;strong;1
+Pohl_MdB;Oliver_Krischer;no tie;1
+Pschnieder;ArminLaschet;strong;1
+Pschnieder;JoSteiniger;strong;2
+Pschnieder;Kai_Whittaker;strong;1
+Pschnieder;PaulZiemiak;strong;1
+Pschnieder;Pschnieder;same person;2
+Pschnieder;Wissing;strong;1
+Pschnieder;thomasgebhart;strong;1
+RKiesewetter;StefingerMdB;strong;1
+RLenkert;GregorGysi;weak;1
+RLenkert;LINKEPELLI;strong;2
+RLenkert;NicoleGohlke;weak;1
+RLenkert;pascalmeiser;strong;1
+RainerSemet;c_lindner;strong;1
+Ralf_Stegner;Janine_Wissler;strong;1
+Ralf_Stegner;SebRoloff;weak;1
+Ralf_Stegner;juergencosse;weak;1
+RenataAlt_MdB;c_lindner;strong;3
+RenateKuenast;KLeikert;weak;1
+RenateKuenast;KonstantinNotz;strong;2
+RenateKuenast;OpheliaNick;strong;1
+RenateKuenast;RenateKuenast;same person;7
+RenateKuenast;SteffiLemke;strong;1
+Ricarda_Lang;HBraun;weak;1
+Ricarda_Lang;KLeikert;weak;1
+Ricarda_Lang;Karl_Lauterbach;strong;1
+Ricarda_Lang;Ricarda_Lang;same person;1
+Ricarda_Lang;groehe;strong;1
+RogerBeckamp;ArminLaschet;weak;1
+RogerBeckamp;KuehniKev;no tie;1
+RogerBeckamp;Ricarda_Lang;no tie;1
+RogerBeckamp;RogerBeckamp;same person;2
+RogerBeckamp;SerapGueler;no tie;1
+RogerBeckamp;helgelindh;no tie;1
+RogerBeckamp;mesarosch;no tie;1
+RyglewskiS;OlafScholz;strong;1
+SWagenknecht;Karl_Lauterbach;weak;1
+SWagenknecht;LINKEPELLI;strong;1
+S_Gruetzmacher;Ricarda_Lang;weak;1
+S_Gruetzmacher;janoschdahmen;strong;1
+S_Muenzenmaier;Jan_Nolte_AfD;strong;1
+S_Muenzenmaier;RogerBeckamp;strong;1
+S_Muenzenmaier;andreasbleckmdb;strong;1
+SaraNanni;Bundeskanzler;weak;2
+SaraNanni;KaiGehring;strong;1
+SaraNanni;Karl_Lauterbach;no tie;1
+SaraNanni;MAStrackZi;strong;1
+SaraNanni;SaraNanni;same person;5
+SaraNanni;ninastahr;strong;1
+SaraNanni;svenlehmann;strong;1
+SaraNanni;till_steffen;strong;1
+SaschaMuller;GansGruen;strong;1
+SaskiaLeaRaquel;jamila_anna;strong;1
+Schmidt_MdB;ABaerbockArchiv;strong;2
+Schmidt_MdB;BriHasselmann;strong;1
+Schmidt_MdB;GoeringEckardt;strong;1
+Schmidt_MdB;MatthiasGastel;strong;1
+Schmidt_MdB;Oliver_Krischer;strong;2
+Schmidt_MdB;badulrichmartha;strong;1
+Schwarz_MdB;Achim_P;strong;1
+Schwarz_MdB;DietmarBartsch;weak;1
+Schwarz_MdB;LindaTeuteberg;no tie;1
+Schwarz_MdB;MatthiasGastel;weak;1
+Schwarz_MdB;MiKellner;no tie;1
+Schwarz_MdB;Oliver_Krischer;weak;1
+Schwarz_MdB;hubertus_heil;strong;2
+Schwarz_MdB;jankortemdb;weak;3
+SebRoloff;KonstantinNotz;weak;1
+SebRoloff;SebRoloff;same person;2
+SebRoloff;janoschdahmen;no tie;1
+SebRoloff;josephineortleb;strong;1
+SerapGueler;IreneMihalic;no tie;1
+SerapGueler;KuehniKev;no tie;1
+SerapGueler;MarcusFaber;strong;1
+SerapGueler;PaulZiemiak;strong;1
+SerapGueler;fiedelseb;weak;1
+SerapGueler;hahnflo;strong;1
+SerapGueler;sebast_hartmann;no tie;1
+SevimDagdelen;LoetzschMdB;strong;1
+SevimDagdelen;SWagenknecht;strong;1
+SevimDagdelen;SevimDagdelen;same person;5
+SiemtjeMdB;Bundeskanzler;weak;1
+SiemtjeMdB;NielsAnnen;strong;1
+SiemtjeMdB;OlafScholz;strong;1
+SiemtjeMdB;Wissing;weak;1
+SiemtjeMdB;hubertus_heil;strong;1
+SiemtjeMdB;larsklingbeil;strong;3
+SilberhornMdB;Thomas_Bareiss;strong;1
+SilberhornMdB;hahnflo;strong;1
+SoenkeRix;DirkWieseSPD;strong;1
+SoenkeRix;LindaTeuteberg;no tie;1
+SoenkeRix;MGrosseBroemer;no tie;1
+SoenkeRix;OlafScholz;strong;2
+SoenkeRix;PaulZiemiak;no tie;1
+SoenkeRix;SoenkeRix;same person;2
+SoenkeRix;Timon_Gremmels;strong;1
+SoenkeRix;sebast_hartmann;strong;1
+StBrandner;JanaSchimke;no tie;1
+StBrandner;MarcusFaber;no tie;1
+StBrandner;StBrandner;same person;4
+StBrandner;c_lindner;no tie;1
+StBrandner;cem_oezdemir;no tie;1
+StSeiter;EUTheurer;strong;5
+StSeiter;JBrandenburgFDP;strong;1
+StSeiter;JudithSkudelny;weak;1
+StSeiter;KonstantinKuhle;strong;1
+StSeiter;LindaTeuteberg;weak;1
+StSeiter;PascalKober;strong;1
+StSeiter;c_lindner;strong;1
+StSeiter;starkwatzinger;strong;1
+StefWenzel;Oliver_Krischer;strong;2
+StefWenzel;StefWenzel;same person;1
+StefWenzel;SteffiLemke;strong;1
+StefWenzel;linda_lobster;weak;1
+StefanGelbhaar;ABaerbockArchiv;strong;1
+StefanGelbhaar;DanielaKluckert;strong;1
+StefanGelbhaar;MiKellner;strong;1
+StefanGelbhaar;StefanGelbhaar;same person;7
+StefanGelbhaar;SteffiLemke;strong;1
+StefanGelbhaar;Thomas_Bareiss;no tie;1
+StefanGelbhaar;Wissing;weak;1
+StefanGelbhaar;crueffer;weak;1
+StefanRouenhoff;ArminLaschet;weak;1
+StefanRouenhoff;Peter_Beyer;strong;1
+StefanRouenhoff;RonjaKemmer;weak;1
+StefanRouenhoff;rbrinkhaus;strong;1
+SteffenBilger;KuehniKev;no tie;1
+SteffenBilger;PaulZiemiak;strong;2
+SteffenBilger;SteffenBilger;same person;1
+SteffenBilger;Thomas_Bareiss;strong;1
+SteffenBilger;andreasscheuer;strong;1
+SteffenKotre;JanaSchimke;no tie;1
+SteffiLemke;SteffiLemke;same person;1
+SteffiLemke;Thomas_Bareiss;weak;1
+SteffiLemke;c_lindner;strong;1
+SteffiLemke;ulle_schauws;strong;1
+StefingerMdB;Brehm_inNBGNord;strong;1
+StefingerMdB;Kiessling_MdB;strong;2
+StephanThomae;KonstantinKuhle;strong;1
+StephanThomae;bstrasser;strong;2
+StephanThomae;c_lindner;strong;1
+StephanThomae;hubertus_heil;weak;1
+StephanThomae;johannesvogel;strong;1
+SusanneFerschl;HeidiReichinnek;strong;1
+SusanneFerschl;JM_Luczak;no tie;1
+SusanneFerschl;JanaSchimke;no tie;1
+SusanneFerschl;Karl_Lauterbach;weak;2
+SusanneFerschl;MAStrackZi;no tie;1
+SusanneFerschl;MartinaRenner;weak;1
+SusanneFerschl;SusanneHennig;weak;1
+SusanneFerschl;b_riexinger;strong;1
+SusanneFerschl;c_lindner;no tie;1
+SusanneFerschl;ernst_klaus;strong;1
+SusanneFerschl;jankortemdb;strong;1
+SusanneFerschl;johannesvogel;strong;1
+SusanneFerschl;pascalmeiser;strong;2
+SusanneFerschl;victorperli;strong;1
+SusanneHennig;HeidiReichinnek;strong;1
+SusanneHennig;MartinaRenner;strong;1
+SvenjaSchulze68;Achim_P;strong;1
+SvenjaSchulze68;Bundeskanzler;strong;1
+SvenjaSchulze68;HeikoMaas;strong;1
+SvenjaSchulze68;OlafScholz;strong;5
+SvenjaSchulze68;ebner_sha;weak;1
+SwantjeMichael1;KuehniKev;weak;1
+SwantjeMichael1;PaulZiemiak;no tie;1
+TBBacherle;RenateKuenast;no tie;1
+TBBacherle;TBBacherle;same person;3
+TErndl;DoroBaer;strong;1
+TErndl;HeikoMaas;strong;1
+TErndl;TErndl;same person;1
+TKuban96;JoSteiniger;weak;1
+TKuban96;Ottilie_Klein;strong;1
+TKuban96;PaulZiemiak;strong;1
+TKuban96;TKuban96;same person;2
+TR_Bremen;MAStrackZi;no tie;1
+TabeaRoessner;ABaerbockArchiv;strong;3
+TabeaRoessner;DoroBaer;strong;1
+TabeaRoessner;IreneMihalic;strong;1
+TabeaRoessner;ManuelHoeferlin;strong;1
+TabeaRoessner;ManuelaRottman;strong;1
+TabeaRoessner;RenateKuenast;strong;2
+TabeaRoessner;annachristmann;strong;1
+TabeaRoessner;ebner_sha;strong;1
+Th_Seitz_AfD;AkbulutGokay;no tie;1
+ThomasDietz_MdB;HeikoMaas;weak;1
+ThomasDietz_MdB;Karl_Lauterbach;weak;1
+ThomasDietz_MdB;MarcBernhardAfD;weak;2
+ThomasDietz_MdB;Th_Seitz_AfD;weak;1
+ThomasDietz_MdB;Tino_Chrupalla;weak;1
+ThomasDietz_MdB;c_lindner;weak;1
+ThomasHeilmann;KLeikert;strong;1
+ThomasHeilmann;PaulZiemiak;strong;1
+ThomasHeilmann;ThomasHeilmann;same person;1
+ThomasHitschler;Andreas_Rimkus;strong;1
+ThomasHitschler;JensZSPD;strong;4
+ThomasHitschler;Timon_Gremmels;strong;1
+ThomasHitschler;hubertus_heil;strong;1
+ThomasHitschler;larsklingbeil;strong;2
+ThomasHitschler;verenahubertz;strong;1
+Thomas_Bareiss;Achim_P;no tie;1
+Thomas_Bareiss;Ingrid_Nestle;strong;2
+Thomas_Bareiss;Kai_Whittaker;strong;1
+Thomas_Bareiss;Oliver_Krischer;strong;1
+Thomas_Bareiss;SoenkeRix;weak;1
+Thomas_Bareiss;Wissing;strong;1
+Thomas_Ehrhorn;EnricoKomning;strong;1
+Thomas_Ehrhorn;Leif_Erik_Holm;strong;2
+Thomas_Ehrhorn;Marc_Jongen;strong;1
+Thomas_Ehrhorn;TobiasMPeterka;weak;1
+ThorstenLieb;LindaTeuteberg;weak;2
+ThorstenLieb;starkwatzinger;strong;2
+Timon_Gremmels;FalkoMohrs;strong;2
+Timon_Gremmels;Johann_Saathoff;strong;1
+Timon_Gremmels;Kaiser_SPD;strong;1
+Timon_Gremmels;KuehniKev;strong;1
+Timon_Gremmels;OlafScholz;strong;1
+Timon_Gremmels;Timon_Gremmels;same person;2
+Timon_Gremmels;hubertus_heil;strong;1
+Timon_Gremmels;larsklingbeil;strong;1
+TinoSorge;JM_Luczak;strong;1
+TinoSorge;Karl_Lauterbach;weak;1
+TinoSorge;UllmannMdB;weak;1
+TinoSorge;VolkerUllrich;weak;1
+TinoSorge;groehe;strong;1
+TinoSorge;larsklingbeil;weak;1
+TinoSorge;smuellermdb;strong;1
+Tino_Chrupalla;Tino_Chrupalla;same person;1
+UliGroetsch;larscastellucci;strong;1
+UllmannMdB;ArminLaschet;weak;1
+UllmannMdB;DjirSarai;strong;1
+UllmannMdB;EUTheurer;strong;2
+UllmannMdB;Lambsdorff;weak;1
+UllmannMdB;MdBKlein;strong;1
+UllmannMdB;UllmannMdB;same person;5
+UllmannMdB;Wissing;strong;1
+UllmannMdB;c_lindner;strong;3
+UllmannMdB;cad59;strong;1
+UllmannMdB;florian_toncar;strong;1
+UllmannMdB;jensteutrine;weak;1
+UllmannMdB;johannesvogel;strong;2
+UllmannMdB;ria_schroeder;strong;1
+UllmannMdB;starkwatzinger;strong;1
+UlrichLange;UlrichLange;same person;1
+UlrichLange;reinhardbrandl;strong;1
+Uwe_Schulz_AfD;AkbulutGokay;no tie;1
+Uwe_Schulz_AfD;SoenkeRix;no tie;1
+Valentin_C_Abel;ArminLaschet;no tie;1
+Valentin_C_Abel;JBrandenburgFDP;strong;1
+Valentin_C_Abel;JudithSkudelny;no tie;1
+Valentin_C_Abel;Karl_Lauterbach;weak;1
+Valentin_C_Abel;KonstantinKuhle;strong;2
+Valentin_C_Abel;Thomas_Bareiss;strong;1
+Valentin_C_Abel;bstrasser;strong;1
+Valentin_C_Abel;c_lindner;strong;1
+Valentin_C_Abel;jensteutrine;strong;1
+Valentin_C_Abel;ria_schroeder;strong;1
+VolkerUllrich;AWidmannMauz;strong;1
+VolkerUllrich;HeikoMaas;strong;1
+VolkerUllrich;StHeck;strong;1
+VolkerUllrich;VolkerUllrich;same person;1
+VolkerUllrich;Wissing;no tie;1
+VolkerUllrich;c_lindner;weak;1
+VolkerUllrich;groehe;strong;1
+VriesChristoph;ArminLaschet;weak;1
+VriesChristoph;KonstantinNotz;weak;1
+VriesChristoph;OlafScholz;weak;1
+VriesChristoph;PaulZiemiak;weak;1
+VriesChristoph;RKiesewetter;strong;1
+VriesChristoph;Ralf_Stegner;weak;1
+VriesChristoph;Ricarda_Lang;weak;1
+VriesChristoph;christianduerr;weak;1
+W_SK;ABaerbockArchiv;strong;4
+W_SK;BriHasselmann;strong;1
+W_SK;ChrisKuehn_mdb;strong;1
+W_SK;DJanecek;strong;2
+W_SK;GruenClaudia;strong;1
+W_SK;Kai_Whittaker;strong;1
+W_SK;MiKellner;strong;1
+W_SK;Ricarda_Lang;strong;1
+W_SK;StefanGelbhaar;weak;1
+W_SK;W_SK;same person;5
+W_SK;agnieszka_mdb;strong;1
+W_SK;fbrantner;strong;1
+W_SK;katdro;strong;1
+W_SK;lisapaus;strong;3
+W_SK;nouripour;strong;1
+W_SK;s_aeffner;strong;2
+W_SK;svenlehmann;strong;3
+Wissing;DanielaKluckert;strong;1
+Wissing;JoSteiniger;strong;1
+Wissing;MGrosseBroemer;strong;1
+Wissing;MiKellner;weak;1
+Wissing;OlafScholz;weak;1
+Wissing;PaulZiemiak;strong;1
+Wissing;Pschnieder;strong;1
+Wissing;Thomas_Bareiss;strong;1
+Wissing;Wissing;same person;1
+Wissing;andreasscheuer;weak;1
+Wissing;c_lindner;strong;3
+Wissing;groehe;strong;1
+Wissing;hahnflo;no tie;1
+Wissing;jensspahn;weak;1
+Witt_Uwe;CanselK;no tie;1
+Witt_Uwe;HeikoMaas;no tie;1
+Witt_Uwe;StefanKeuterAfD;weak;1
+Witt_Uwe;c_lindner;weak;1
+YannickBury;PaulZiemiak;weak;2
+YannickBury;RKiesewetter;strong;1
+ZaklinNastic;AndrejHunko;strong;2
+ZaklinNastic;EskenSaskia;weak;1
+ZaklinNastic;HeikoMaas;weak;2
+ZaklinNastic;LINKEPELLI;strong;1
+ZaklinNastic;SWagenknecht;weak;1
+ZaklinNastic;SevimDagdelen;strong;1
+ZaklinNastic;ZaklinNastic;same person;2
+_sanaeabdi;Karl_Lauterbach;weak;1
+_sanaeabdi;KuehniKev;strong;1
+_sanaeabdi;mesarosch;weak;1
+agnieszka_mdb;KonstantinNotz;strong;1
+agnieszka_mdb;Oliver_Krischer;strong;1
+agnieszka_mdb;Ricarda_Lang;strong;1
+agnieszka_mdb;SteffiLemke;strong;1
+agnieszka_mdb;sven_kindler;strong;1
+agnieszka_mdb;svenlehmann;strong;1
+alexander_throm;MGrosseBroemer;weak;1
+alexander_throm;PaulZiemiak;weak;2
+alexander_throm;ninawarken;strong;1
+alexmuellerfdp;DanielaKluckert;strong;2
+alexmuellerfdp;HeikoMaas;no tie;1
+alexmuellerfdp;MarcusFaber;strong;1
+alexmuellerfdp;alexmuellerfdp;same person;5
+alexmuellerfdp;c_lindner;strong;1
+alexmuellerfdp;f_schaeffler;strong;1
+alexmuellerfdp;starkwatzinger;strong;2
+andreasbleckmdb;Wissing;no tie;1
+andreasbleckmdb;andreasbleckmdb;same person;1
+andreaslarem;MiRo_SPD;strong;2
+andreasscheuer;PaulZiemiak;strong;1
+andreasscheuer;andreasscheuer;same person;1
+andreasscheuer;hahnflo;strong;1
+anjaweisgerber;KLeikert;strong;1
+anjaweisgerber;anjaweisgerber;same person;1
+anked;GregorGysi;weak;1
+anked;LINKEPELLI;weak;1
+anked;anked;same person;10
+annachristmann;ABaerbockArchiv;strong;2
+annachristmann;K_SA;strong;1
+annachristmann;annachristmann;same person;2
+annachristmann;hubertus_heil;strong;1
+arlt_johannes;OlafScholz;strong;2
+arlt_johannes;jungeinberlin;strong;1
+b_riexinger;CarenLay;strong;2
+b_riexinger;Janine_Wissler;strong;1
+b_riexinger;MartinaRenner;strong;1
+b_riexinger;PaulZiemiak;no tie;1
+b_riexinger;SusanneHennig;strong;1
+b_riexinger;victorperli;strong;2
+badulrichmartha;ABaerbockArchiv;strong;2
+badulrichmartha;ArminLaschet;weak;2
+badulrichmartha;Oliver_Krischer;strong;4
+badulrichmartha;Ricarda_Lang;strong;1
+badulrichmartha;Schmidt_MdB;strong;1
+badulrichmartha;StefanGelbhaar;strong;1
+badulrichmartha;SteffiLemke;strong;1
+badulrichmartha;badulrichmartha;same person;1
+badulrichmartha;rbrinkhaus;weak;1
+baerbelbas;DirkWieseSPD;strong;1
+baerbelbas;HeikoMaas;strong;1
+baerbelbas;HolgerMannLE;strong;1
+baerbelbas;JensZSPD;weak;1
+baerbelbas;KaczmarekOliver;strong;2
+baerbelbas;Karl_Lauterbach;strong;1
+baerbelbas;Lambsdorff;no tie;1
+baerbelbas;OlafScholz;strong;2
+baerbelbas;PaulZiemiak;weak;1
+baerbelbas;Schwarz_MdB;strong;1
+baerbelbas;ThomasHitschler;strong;1
+baerbelbas;Timon_Gremmels;strong;1
+baerbelbas;hubertus_heil;strong;2
+baerbelbas;schneidercar;strong;1
+baldy_daniel;ThomasHitschler;strong;1
+baldy_daniel;baldy_daniel;same person;1
+bhoffmann_mdb;ABaerbockArchiv;strong;4
+bhoffmann_mdb;DerLenzMdB;strong;1
+bhoffmann_mdb;GoeringEckardt;strong;1
+bhoffmann_mdb;Kai_Whittaker;strong;1
+bhoffmann_mdb;Oliver_Krischer;strong;2
+bhoffmann_mdb;SteffiLemke;strong;1
+bhoffmann_mdb;TabeaRoessner;strong;1
+bhoffmann_mdb;ebner_sha;strong;3
+bhoffmann_mdb;filizgreen;strong;1
+borismijatovic;ABaerbockArchiv;weak;2
+bstrasser;KonstantinKuhle;strong;2
+bstrasser;c_lindner;strong;2
+bstrasser;florian_toncar;strong;1
+busen_mdb;f_schaeffler;strong;1
+c_lindner;ABaerbockArchiv;strong;1
+c_lindner;ArminLaschet;strong;2
+c_lindner;DirkWieseSPD;no tie;1
+c_lindner;DjirSarai;strong;1
+c_lindner;GoeringEckardt;strong;1
+c_lindner;HBraun;strong;1
+c_lindner;JBrandenburgFDP;strong;1
+c_lindner;Karl_Lauterbach;strong;1
+c_lindner;KonstantinKuhle;strong;1
+c_lindner;Lambsdorff;strong;2
+c_lindner;MarcoBuschmann;strong;2
+c_lindner;c_lindner;same person;3
+c_lindner;jensspahn;strong;1
+c_lindner;michael_g_link;strong;1
+cad59;EUTheurer;strong;1
+cad59;MarcusFaber;strong;1
+cad59;c_lindner;strong;1
+cad59;cad59;same person;2
+cad59;f_schaeffler;strong;1
+cad59;starkwatzinger;strong;1
+cad59;theliberalfrank;strong;1
+carina_konrad;Wissing;strong;2
+carina_konrad;alexmuellerfdp;strong;1
+carina_konrad;c_lindner;strong;2
+carina_konrad;ebner_sha;weak;2
+carina_konrad;f_schaeffler;strong;1
+carina_konrad;gitta_connemann;no tie;1
+carina_konrad;hacker_fdp;strong;1
+carina_konrad;smuellermdb;no tie;1
+carina_konrad;starkwatzinger;strong;2
+carina_konrad;torstenherbst;strong;1
+cem_oezdemir;PaulZiemiak;strong;1
+chantal_kopf;detzer_sandra;strong;1
+christianduerr;Achim_P;strong;1
+christianduerr;DjirSarai;strong;1
+christianduerr;EskenSaskia;weak;1
+christianduerr;GydeJ;strong;1
+christianduerr;HBraun;weak;1
+christianduerr;HeikoMaas;weak;1
+christianduerr;KuehniKev;weak;1
+christianduerr;OlafScholz;weak;1
+christianduerr;PaulZiemiak;strong;1
+christianduerr;Ricarda_Lang;weak;1
+christianduerr;c_lindner;strong;1
+christianduerr;christianduerr;same person;3
+christianduerr;florian_toncar;strong;1
+christianduerr;katdro;strong;1
+christianduerr;olavgutting;weak;2
+christianduerr;schneidercar;weak;1
+christianduerr;starkwatzinger;strong;1
+christophploss;KuehniKev;weak;1
+christophploss;MiRo_SPD;strong;1
+christophploss;Thomas_Bareiss;strong;1
+cj_schroeder;ChrisKuehn_mdb;strong;1
+cj_schroeder;GruenClaudia;strong;1
+cj_schroeder;cem_oezdemir;strong;2
+cj_schroeder;filizgreen;strong;1
+cj_schroeder;svenlehmann;strong;2
+cjcronenberg;c_lindner;strong;1
+derya_tn;derya_tn;same person;1
+detzer_sandra;ABaerbockArchiv;strong;1
+detzer_sandra;BriHasselmann;strong;1
+detzer_sandra;GoeringEckardt;strong;1
+detzer_sandra;Oliver_Krischer;strong;1
+detzer_sandra;till_steffen;strong;1
+dieschmidt;Timon_Gremmels;strong;1
+dieschmidt;baerbelbas;strong;1
+dittmarsabine;baerbelbas;strong;1
+dittmarsabine;hubertus_heil;strong;1
+dittmarsabine;schneidercar;strong;1
+ebner_sha;Oliver_Krischer;strong;1
+ebner_sha;SteffiLemke;strong;2
+ebner_sha;cj_schroeder;strong;1
+ebner_sha;ebner_sha;same person;2
+ebner_sha;sven_kindler;strong;2
+ekindeligoez;ABaerbockArchiv;strong;1
+ekindeligoez;CanselK;weak;1
+ekindeligoez;JTrittin;strong;1
+ekindeligoez;MatthiasGastel;strong;1
+ekindeligoez;RenateKuenast;strong;2
+ekindeligoez;agnieszka_mdb;strong;1
+ekindeligoez;cem_oezdemir;strong;1
+ekindeligoez;ekindeligoez;same person;10
+ekindeligoez;janoschdahmen;strong;1
+ekindeligoez;sven_kindler;strong;3
+ekindeligoez;svenlehmann;strong;2
+ekindeligoez;ulle_schauws;strong;1
+ernst_klaus;SWagenknecht;strong;1
+ernst_klaus;b_riexinger;strong;1
+ernst_klaus;ernst_klaus;same person;1
+f_schaeffler;KonstantinKuhle;strong;1
+f_schaeffler;f_schaeffler;same person;10
+fbanaszak;ArminLaschet;strong;2
+fbanaszak;GydeJ;no tie;1
+fbanaszak;LamyaKaddor;strong;1
+fbanaszak;MiKellner;strong;1
+fbanaszak;fbanaszak;same person;8
+fbrantner;K_SA;strong;1
+fbrantner;KonstantinKuhle;strong;1
+fbrantner;c_lindner;weak;2
+fbrantner;cem_oezdemir;strong;1
+fbrantner;detzer_sandra;strong;1
+fbrantner;fbrantner;same person;5
+fbrantner;sven_kindler;strong;1
+fbrantner;till_steffen;strong;2
+fdp_hessel;DFoest;strong;1
+fdp_hessel;MarcoBuschmann;strong;1
+fdp_hessel;OlafScholz;weak;1
+fdp_hessel;florian_toncar;strong;1
+felixschreiner;ArminLaschet;strong;1
+felixschreiner;MGrosseBroemer;strong;1
+felixschreiner;MarcusFaber;no tie;1
+felixschreiner;PaulZiemiak;strong;1
+felixschreiner;SteffenBilger;strong;2
+felixschreiner;rbrinkhaus;strong;1
+fiedelseb;ArminLaschet;weak;1
+fiedelseb;IreneMihalic;strong;1
+fiedelseb;Karl_Lauterbach;weak;2
+fiedelseb;KonstantinKuhle;strong;1
+fiedelseb;MatthiasHauer;no tie;1
+fiedelseb;fiedelseb;same person;9
+fiedelseb;helgelindh;strong;1
+filizgreen;AWidmannMauz;weak;2
+filizgreen;MiKellner;strong;1
+filizgreen;RenateKuenast;strong;1
+filizgreen;StefanGelbhaar;strong;1
+filizgreen;UliGroetsch;no tie;1
+filizgreen;filizgreen;same person;1
+florian_toncar;OlafScholz;weak;3
+florian_toncar;c_lindner;strong;3
+florian_toncar;f_schaeffler;strong;1
+florian_toncar;florian_toncar;same person;4
+funke_fabian;FrankSchwabe;strong;1
+funke_fabian;HolgerMannLE;strong;1
+gitta_connemann;Bundeskanzler;no tie;1
+gitta_connemann;JTrittin;no tie;1
+gitta_connemann;MarcusFaber;weak;1
+gitta_connemann;Oliver_Krischer;no tie;1
+gitta_connemann;PaulZiemiak;strong;1
+gitta_connemann;b_riexinger;no tie;1
+gitta_connemann;ernst_klaus;no tie;1
+gitta_connemann;gitta_connemann;same person;1
+gitta_connemann;jankortemdb;no tie;1
+goerke_c;c_lindner;weak;1
+groehe;Karl_Lauterbach;strong;1
+groehe;PaulZiemiak;strong;1
+groehe;c_lindner;strong;1
+h_weyel;HeikoMaas;no tie;2
+h_weyel;Leif_Erik_Holm;strong;1
+h_weyel;Nicole_Hoechst;strong;1
+h_weyel;Renner_AfD;strong;1
+h_weyel;RogerBeckamp;strong;1
+h_weyel;Tino_Chrupalla;strong;1
+h_weyel;h_weyel;same person;2
+hacker_fdp;PeterHeidtFDP;strong;1
+hahnflo;ABaerbockArchiv;no tie;1
+hahnflo;AfDProtschka;no tie;1
+hahnflo;Bundeskanzler;no tie;1
+hahnflo;HeikoMaas;no tie;1
+hahnflo;JTrittin;no tie;1
+hahnflo;MarcoBuschmann;weak;1
+hahnflo;MarcusFaber;no tie;1
+hahnflo;OlafScholz;weak;1
+hahnflo;PaulZiemiak;strong;2
+hahnflo;Ralf_Stegner;weak;1
+hahnflo;Ricarda_Lang;no tie;1
+hahnflo;Wissing;no tie;1
+hahnflo;hahnflo;same person;1
+hahnflo;jensspahn;strong;1
+hahnflo;larsklingbeil;strong;1
+hahnflo;smuellermdb;strong;1
+helgelindh;PaulZiemiak;weak;1
+herr_emmerich;HBraun;no tie;1
+herr_emmerich;Ricarda_Lang;strong;1
+herr_emmerich;Thomas_Bareiss;no tie;1
+herr_emmerich;detzer_sandra;strong;1
+herr_emmerich;herr_emmerich;same person;3
+hubertus_heil;ArminLaschet;no tie;1
+hubertus_heil;Doro_Martin;strong;1
+hubertus_heil;JasminaHostert;strong;1
+hubertus_heil;hubertus_heil;same person;1
+isacademartori;Bundeskanzler;weak;1
+isacademartori;Karl_Lauterbach;weak;1
+isacademartori;funke_fabian;weak;1
+jamila_anna;Frohnmaier_AfD;no tie;1
+jamila_anna;PaulZiemiak;strong;1
+jamila_anna;Ricarda_Lang;strong;1
+jamila_anna;SWagenknecht;weak;1
+jamila_anna;badulrichmartha;strong;1
+jamila_anna;jamila_anna;same person;4
+jamila_anna;smuellermdb;no tie;1
+jankortemdb;GregorGysi;strong;1
+jankortemdb;jankortemdb;same person;7
+janoschdahmen;ABaerbockArchiv;strong;1
+janoschdahmen;Oliver_Krischer;strong;1
+janoschdahmen;janoschdahmen;same person;7
+janoschdahmen;svenlehmann;strong;1
+janoschdahmen;till_steffen;strong;1
+jensteutrine;Karl_Lauterbach;weak;1
+jensteutrine;KonstantinNotz;weak;1
+jensteutrine;LindaTeuteberg;no tie;1
+jensteutrine;b_riexinger;no tie;1
+jensteutrine;c_lindner;strong;1
+jensteutrine;groehe;no tie;1
+jensteutrine;jensteutrine;same person;6
+jessi_rosenthal;Karl_Lauterbach;weak;1
+jessi_rosenthal;KuehniKev;strong;1
+jethoru;isacademartori;strong;1
+johannesvogel;ArminLaschet;strong;1
+johannesvogel;KonstantinKuhle;strong;1
+johannesvogel;PaulZiemiak;strong;1
+johannesvogel;hubertus_heil;strong;1
+johannesvogel;johannesvogel;same person;20
+johannesvogel;markuskurthmdb;strong;1
+josefoster;Pschnieder;strong;1
+josip_juratovic;KarambaDiaby;strong;1
+josip_juratovic;hubertus_heil;strong;1
+josip_juratovic;josip_juratovic;same person;2
+josip_juratovic;larscastellucci;strong;1
+josip_juratovic;schneidercar;strong;1
+jschraps;dieschmidt;strong;1
+jschraps;hubertus_heil;strong;1
+juergencosse;Achim_P;strong;1
+juergencosse;Bundeskanzler;weak;1
+juergencosse;FrankSchwabe;strong;1
+juergencosse;JensZSPD;strong;1
+juergencosse;MarcusFaber;weak;1
+juergencosse;OlafScholz;weak;1
+juergencosse;Timon_Gremmels;strong;1
+juergencosse;baerbelbas;strong;1
+juergencosse;helgelindh;strong;1
+juergencosse;hubertus_heil;strong;1
+juergencosse;juergencosse;same person;4
+juergencosse;s_schwartze;strong;1
+juergencosse;sebast_hartmann;strong;1
+juergenhardt;NilsSchmid;strong;1
+juergenhardt;PaulZiemiak;strong;1
+julia_verlinden;ABaerbockArchiv;strong;1
+julia_verlinden;BriHasselmann;strong;1
+julia_verlinden;ChrisKuehn_mdb;strong;1
+julia_verlinden;MiKellner;strong;1
+julia_verlinden;OlafScholz;weak;1
+julia_verlinden;SteffiLemke;strong;1
+julia_verlinden;Thomas_Bareiss;strong;1
+julia_verlinden;badulrichmartha;strong;1
+julia_verlinden;julia_verlinden;same person;29
+julia_verlinden;sven_kindler;strong;1
+jungeinberlin;KuehniKev;strong;1
+jws_afd;KarambaDiaby;no tie;1
+jws_afd;jankortemdb;no tie;1
+jws_afd;jws_afd;same person;2
+karlbaer;filizgreen;weak;1
+karlbaer;janoschdahmen;weak;1
+karlbaer;karlbaer;same person;3
+karo_otte;ABaerbockArchiv;weak;1
+karo_otte;BriHasselmann;strong;1
+karo_otte;GoeringEckardt;strong;1
+karo_otte;cj_schroeder;strong;1
+karo_otte;nyke_slawik;weak;1
+kassem_ts;Oliver_Krischer;strong;1
+kassem_ts;filizgreen;strong;1
+kassem_ts;max_lucks;strong;1
+kassem_ts;rasha_nasr_;strong;2
+katdro;ABaerbockArchiv;strong;3
+katdro;GruenClaudia;strong;1
+katdro;Oliver_Krischer;strong;1
+katdro;PaulZiemiak;weak;1
+katdro;RenateKuenast;strong;1
+katdro;andreasscheuer;no tie;1
+katdro;fbanaszak;strong;1
+katdro;hubertus_heil;strong;1
+katdro;nouripour;strong;1
+katdro;sven_kindler;strong;2
+katdro;svenlehmann;strong;2
+kathabeck;ABaerbockArchiv;weak;3
+kathabeck;MiKellner;strong;1
+kathabeck;Oliver_Krischer;strong;1
+kathabeck;Ricarda_Lang;weak;3
+kathabeck;c_lindner;weak;1
+kathabeck;katdro;strong;1
+kathabeck;kathabeck;same person;3
+kathabeck;sven_kindler;strong;1
+katjadler;DFoest;strong;1
+katjadler;MAStrackZi;strong;1
+katjadler;Wissing;weak;1
+katjadler;c_lindner;strong;1
+katjadler;f_schaeffler;weak;1
+katjadler;hubertus_heil;weak;1
+katjadler;maxmordhorst;weak;1
+katjakipping;CarenLay;strong;1
+katjakipping;KonstantinKuhle;weak;1
+katjakipping;KuehniKev;strong;1
+katjakipping;MartinaRenner;strong;1
+katjakipping;SusanneHennig;strong;1
+katjakipping;katjakipping;same person;5
+katjakipping;rasha_nasr_;strong;1
+katjakipping;voglerk;strong;1
+katrin_staffler;hahnflo;strong;2
+katrinuhligbn;ABaerbockArchiv;weak;1
+katrinuhligbn;Ricarda_Lang;weak;1
+katrinuhligbn;janoschdahmen;strong;1
+katrinuhligbn;nouripour;weak;1
+katrinuhligbn;svenlehmann;strong;1
+koehler_fdp;DanielaKluckert;strong;1
+koehler_fdp;LieblingXhain;weak;1
+koehler_fdp;Oliver_Krischer;strong;2
+koehler_fdp;StephanThomae;strong;1
+koehler_fdp;Wissing;strong;2
+koehler_fdp;b_riexinger;weak;1
+koehler_fdp;badulrichmartha;strong;1
+kristine_lutke;johannesvogel;weak;1
+kristine_lutke;ria_schroeder;strong;3
+larscastellucci;AWidmannMauz;weak;1
+larscastellucci;HeikoMaas;strong;1
+larscastellucci;MiRo_SPD;strong;3
+larscastellucci;OlafScholz;strong;1
+larscastellucci;hubertus_heil;strong;1
+larscastellucci;larscastellucci;same person;3
+larscastellucci;michael_thews;strong;1
+larscastellucci;schneidercar;strong;1
+larscastellucci;sven_kindler;strong;1
+larsklingbeil;JensZSPD;strong;2
+larsklingbeil;KonstantinKuhle;strong;1
+larsklingbeil;MiKellner;strong;1
+larsklingbeil;SebRoloff;strong;1
+larsklingbeil;Timon_Gremmels;strong;1
+larsklingbeil;c_lindner;strong;1
+larsklingbeil;verenahubertz;strong;1
+lennardoehl;Timon_Gremmels;strong;1
+lime_green_leni;Ricarda_Lang;strong;1
+lime_green_leni;jamila_anna;strong;1
+linda_lobster;PaulaPiechotta;strong;1
+linda_lobster;linda_lobster;same person;1
+lisapaus;OlafScholz;weak;1
+lisapaus;lisapaus;same person;4
+lisapaus;svenlehmann;strong;1
+m_schieder;ThomasHitschler;strong;1
+m_schieder;UliGroetsch;weak;1
+m_schieder;larsklingbeil;weak;3
+m_schieder;oezoguz;strong;2
+maik_aussendorf;TBBacherle;strong;1
+markuskurthmdb;DietmarBartsch;weak;1
+max_fksr;DjirSarai;strong;1
+max_fksr;HeikoMaas;weak;1
+max_fksr;JBrandenburgFDP;strong;1
+max_fksr;KaufmannAfD;no tie;1
+max_fksr;hahnflo;weak;1
+max_fksr;max_fksr;same person;3
+max_lucks;Ricarda_Lang;strong;1
+max_lucks;max_lucks;same person;2
+max_lucks;sven_kindler;strong;1
+max_lucks;svenlehmann;strong;1
+maxmoerseburg;KarambaDiaby;no tie;1
+maxmoerseburg;c_lindner;weak;1
+maxmordhorst;GregorGysi;no tie;1
+maxmordhorst;gitta_connemann;no tie;1
+maxmordhorst;maxmordhorst;same person;5
+meister_schafft;MAStrackZi;no tie;1
+meister_schafft;MarcoBuschmann;weak;1
+meister_schafft;th_sattelberger;weak;1
+mesarosch;HeikoMaas;strong;1
+mesarosch;OlafScholz;weak;1
+michael_g_link;EUTheurer;strong;1
+michael_g_link;starkwatzinger;strong;1
+michael_thews;michael_thews;same person;2
+mischrodi;HeikoMaas;strong;1
+mischrodi;Timon_Gremmels;strong;1
+mseesternpauly;Wissing;weak;1
+mseesternpauly;jensbeeck;strong;1
+mueller_sepp;IreneMihalic;no tie;1
+mueller_sepp;Karl_Lauterbach;no tie;2
+mueller_sepp;KonstantinNotz;no tie;1
+mueller_sepp;MarcusFaber;strong;1
+mueller_sepp;PaulaPiechotta;weak;1
+n_roettgen;JM_Luczak;strong;1
+n_roettgen;Pschnieder;strong;1
+n_roettgen;SWagenknecht;no tie;1
+n_roettgen;SevimDagdelen;weak;1
+n_roettgen;gero_storjohann;strong;1
+nadjasthamer;Bundeskanzler;weak;1
+nadjasthamer;EskenSaskia;strong;1
+nadjasthamer;HolgerMannLE;strong;1
+nadjasthamer;Karl_Lauterbach;weak;1
+nadjasthamer;KuehniKev;strong;2
+nadjasthamer;MAStrackZi;no tie;1
+nadjasthamer;nadjasthamer;same person;2
+nadjasthamer;schneidercar;strong;1
+nicole_ae_bauer;MdBKlein;strong;1
+nicole_ae_bauer;PeterHeidtFDP;strong;1
+nicole_ae_bauer;c_lindner;strong;1
+nicole_ae_bauer;hubertus_heil;no tie;1
+nicole_ae_bauer;lisapaus;weak;1
+nicole_ae_bauer;ria_schroeder;strong;1
+ninastahr;ABaerbockArchiv;strong;1
+ninastahr;IreneMihalic;strong;1
+ninastahr;Karl_Lauterbach;weak;1
+ninastahr;KonstantinKuhle;weak;1
+ninastahr;hubertus_heil;weak;1
+ninastahr;ninastahr;same person;3
+ninawarken;AWidmannMauz;strong;2
+ninawarken;KLeikert;strong;1
+ninawarken;KonstantinNotz;strong;1
+ninawarken;MarcHenrichmann;strong;1
+ninawarken;VolkerUllrich;strong;1
+ninawarken;anjaweisgerber;strong;1
+ninawarken;olavgutting;strong;1
+nouripour;ABaerbockArchiv;strong;1
+nouripour;BaerbelKofler;no tie;1
+nouripour;DjirSarai;no tie;1
+nouripour;IreneMihalic;strong;3
+nouripour;JTrittin;strong;1
+nouripour;LamyaKaddor;strong;1
+nouripour;MariaKlSchmeink;weak;1
+nouripour;MiKellner;strong;1
+nouripour;Ricarda_Lang;strong;1
+nouripour;StefanGelbhaar;weak;2
+nouripour;TabeaRoessner;strong;1
+nouripour;agnieszka_mdb;strong;1
+nouripour;ebner_sha;strong;1
+nouripour;fbrantner;strong;1
+nouripour;nouripour;same person;6
+nouripour;schneidercar;strong;1
+nouripour;tobiaslindner;strong;2
+nyke_slawik;ABaerbockArchiv;weak;1
+nyke_slawik;KonstantinNotz;strong;1
+nyke_slawik;PaulZiemiak;weak;1
+nyke_slawik;SerapGueler;weak;1
+nyke_slawik;fbanaszak;strong;1
+nyke_slawik;larsklingbeil;weak;1
+nyke_slawik;max_lucks;strong;1
+nyke_slawik;nyke_slawik;same person;2
+nyke_slawik;svenlehmann;strong;2
+oezdemir_spd;sebast_hartmann;strong;1
+oezoguz;EskenSaskia;strong;1
+oezoguz;KaczmarekOliver;strong;1
+oezoguz;KarambaDiaby;strong;2
+oezoguz;NilsSchmid;strong;1
+oezoguz;OlafScholz;strong;1
+oezoguz;hubertus_heil;strong;1
+oezoguz;larsklingbeil;strong;2
+oezoguz;mesarosch;weak;1
+oezoguz;oezoguz;same person;1
+oezoguz;schneidercar;strong;1
+olafinderbeek;DanielaKluckert;strong;1
+olafinderbeek;DjirSarai;strong;2
+olafinderbeek;HeikoMaas;no tie;1
+olafinderbeek;Lambsdorff;strong;1
+olafinderbeek;ManuelHoeferlin;strong;1
+olafinderbeek;MarcoBuschmann;strong;1
+olafinderbeek;NadineSchoen;no tie;1
+olafinderbeek;StephanThomae;strong;1
+olafinderbeek;bstrasser;strong;1
+olafinderbeek;c_lindner;strong;2
+olafinderbeek;f_schaeffler;strong;1
+olafinderbeek;florian_toncar;strong;1
+olafinderbeek;jamila_anna;no tie;1
+olafinderbeek;theliberalfrank;strong;2
+pascalmeiser;CarenLay;strong;1
+pascalmeiser;Janine_Wissler;weak;1
+philipphartewig;JoSteiniger;no tie;1
+philipphartewig;theliberalfrank;strong;2
+philipphartewig;torstenherbst;strong;1
+rasha_nasr_;EskenSaskia;strong;1
+rasha_nasr_;rasha_nasr_;same person;1
+reinholdmdb;DanielaKluckert;strong;1
+reinholdmdb;JoSteiniger;no tie;1
+reinholdmdb;MarcoBuschmann;strong;1
+reinholdmdb;OlafScholz;weak;1
+reinholdmdb;bstrasser;strong;1
+reinholdmdb;c_lindner;strong;3
+reinholdmdb;torstenherbst;strong;1
+reuther_bernd;MarcoBuschmann;strong;1
+reuther_bernd;OlliLuksic;strong;1
+reuther_bernd;c_lindner;strong;3
+reuther_bernd;f_schaeffler;strong;2
+reuther_bernd;florian_toncar;strong;2
+reuther_bernd;starkwatzinger;strong;1
+reuther_bernd;torstenherbst;strong;2
+ria_schroeder;Ricarda_Lang;strong;1
+ria_schroeder;johannesvogel;strong;2
+ria_schroeder;ria_schroeder;same person;1
+ria_schroeder;starkwatzinger;strong;1
+rischwasu;Bundeskanzler;weak;1
+rischwasu;EUTheurer;no tie;1
+rischwasu;JensZSPD;weak;1
+rischwasu;OlafScholz;strong;3
+rischwasu;felixschreiner;strong;4
+rischwasu;hubertus_heil;strong;2
+rischwasu;schneidercar;strong;1
+robinwagener;ABaerbockArchiv;strong;1
+robinwagener;KonstantinNotz;weak;1
+robinwagener;LamyaKaddor;strong;1
+robinwagener;SaraNanni;strong;1
+robinwagener;cem_oezdemir;strong;3
+robinwagener;fbanaszak;strong;1
+robinwagener;nouripour;weak;1
+s_schwartze;Achim_P;strong;2
+s_schwartze;DirkWieseSPD;strong;1
+s_schwartze;FrankSchwabe;strong;1
+s_schwartze;OlafScholz;strong;1
+s_schwartze;hubertus_heil;strong;1
+s_schwartze;larsklingbeil;strong;1
+s_schwartze;sebast_hartmann;strong;1
+sandra_weeser;DanielaKluckert;strong;1
+sandra_weeser;EUTheurer;strong;1
+sandra_weeser;JoSteiniger;weak;2
+sandra_weeser;b_riexinger;weak;2
+sandra_weeser;bstrasser;strong;1
+sandra_weeser;jensspahn;weak;1
+sandra_weeser;ria_schroeder;strong;1
+schahinag;BriHasselmann;strong;1
+schneidercar;DietmarBartsch;strong;1
+schneidercar;KarambaDiaby;strong;1
+schneidercar;LindaTeuteberg;weak;1
+schneidercar;MGrosseBroemer;strong;1
+schneidercar;c_lindner;strong;1
+schneidercar;fbanaszak;weak;1
+schneidercar;schneidercar;same person;2
+schneidercar;smuellermdb;no tie;1
+sebast_hartmann;ArminLaschet;strong;1
+sebast_hartmann;DirkWieseSPD;strong;1
+sebast_hartmann;EsraLimbacher;strong;1
+sebast_hartmann;HeikoMaas;strong;1
+sebast_hartmann;JensZSPD;strong;1
+sebast_hartmann;KonstantinNotz;weak;1
+sebast_hartmann;MiRo_SPD;strong;1
+sebast_hartmann;ThomasHitschler;strong;1
+sebast_hartmann;UliGroetsch;strong;1
+sebast_hartmann;larsklingbeil;strong;1
+sebastian_es_;ABaerbockArchiv;weak;1
+sebastian_es_;cem_oezdemir;strong;3
+sebastian_es_;ekindeligoez;strong;1
+sebastian_es_;fbrantner;strong;1
+sebastian_es_;katdro;strong;1
+smuellermdb;ABaerbockArchiv;weak;1
+smuellermdb;IreneMihalic;no tie;1
+smuellermdb;KuehniKev;strong;2
+smuellermdb;Wissing;no tie;1
+smuellermdb;ernst_klaus;no tie;1
+smuellermdb;hahnflo;strong;1
+smuellermdb;larsklingbeil;no tie;1
+smuellermdb;smuellermdb;same person;12
+spellerberg_m;ABaerbockArchiv;weak;1
+spellerberg_m;PaulaPiechotta;strong;1
+spellerberg_m;Ricarda_Lang;weak;1
+spellerberg_m;agnieszka_mdb;strong;1
+stadler_svenja;DirkWieseSPD;strong;1
+stadler_svenja;FrankSchwabe;strong;1
+stadler_svenja;KuehniKev;strong;1
+stadler_svenja;OlafScholz;strong;1
+stadler_svenja;RyglewskiS;strong;1
+stadler_svenja;SoenkeRix;strong;1
+stadler_svenja;baerbelbas;strong;1
+stadler_svenja;helgelindh;strong;1
+stadler_svenja;hubertus_heil;strong;1
+stadler_svenja;larscastellucci;strong;2
+stadler_svenja;larsklingbeil;strong;1
+stadler_svenja;sebast_hartmann;strong;1
+stadler_svenja;stadler_svenja;same person;1
+starkwatzinger;HBraun;weak;1
+starkwatzinger;JoSteiniger;strong;1
+starkwatzinger;KonstantinKuhle;strong;3
+starkwatzinger;OlafScholz;strong;3
+starkwatzinger;Otto_Fricke;strong;1
+starkwatzinger;Wissing;strong;4
+starkwatzinger;b_riexinger;weak;1
+starkwatzinger;c_lindner;strong;1
+starkwatzinger;christianduerr;strong;3
+starkwatzinger;f_schaeffler;strong;1
+starkwatzinger;florian_toncar;strong;2
+starkwatzinger;johannesvogel;strong;2
+starkwatzinger;larsklingbeil;strong;1
+starkwatzinger;schneidercar;weak;1
+starkwatzinger;starkwatzinger;same person;1
+stonie_kiel;HeikoMaas;strong;1
+stonie_kiel;Johann_Saathoff;strong;1
+stonie_kiel;MuellerChemnitz;strong;1
+stonie_kiel;OlafScholz;strong;2
+stonie_kiel;baerbelbas;strong;2
+stonie_kiel;larscastellucci;strong;1
+stuewer;hubertus_heil;no tie;1
+stuewer;ninastahr;strong;1
+sven_kindler;ABaerbockArchiv;strong;1
+sven_kindler;BriHasselmann;strong;1
+sven_kindler;MdBKlein;strong;1
+sven_kindler;Ricarda_Lang;strong;1
+sven_kindler;katdro;strong;1
+sven_kindler;smuellermdb;strong;1
+sven_kindler;sven_kindler;same person;3
+svenlehmann;PaulZiemiak;weak;2
+svenlehmann;Ricarda_Lang;strong;1
+svenlehmann;svenlehmann;same person;3
+th_sattelberger;OlafScholz;weak;2
+th_sattelberger;c_lindner;strong;1
+th_sattelberger;th_sattelberger;same person;11
+th_sattelberger;theliberalfrank;strong;1
+theliberalfrank;ria_schroeder;strong;1
+thereallenzii;ThomasHitschler;strong;1
+thereallenzii;jethoru;strong;1
+thomasgebhart;HBraun;weak;1
+thorsten_frei;MGrosseBroemer;strong;1
+till_steffen;ABaerbockArchiv;strong;2
+till_steffen;BriHasselmann;strong;2
+till_steffen;KonstantinNotz;strong;2
+till_steffen;NielsAnnen;strong;1
+till_steffen;OlafScholz;strong;2
+till_steffen;RenateKuenast;weak;1
+till_steffen;Ricarda_Lang;strong;2
+till_steffen;guenterkrings;no tie;1
+till_steffen;janoschdahmen;strong;1
+till_steffen;till_steffen;same person;11
+tj_tweets;hahnflo;strong;1
+tj_tweets;jensspahn;strong;1
+tj_tweets;tj_tweets;same person;2
+tobiaslindner;ABaerbockArchiv;weak;1
+tobiaslindner;GydeJ;weak;1
+tobiaslindner;HellmichMdB;strong;2
+tobiaslindner;KuehniKev;strong;1
+tobiaslindner;ManuelaRottman;strong;1
+tobiaslindner;MiKellner;strong;1
+tobiaslindner;NielsAnnen;strong;1
+tobiaslindner;OlafScholz;weak;1
+tobiaslindner;Thomas_Bareiss;strong;1
+tobiaslindner;fbanaszak;strong;1
+tobiaslindner;katdro;strong;1
+tobiaslindner;nouripour;strong;1
+tobiaslindner;tobiaslindner;same person;3
+torstenherbst;alexmuellerfdp;strong;1
+torstenherbst;bstrasser;strong;1
+torstenherbst;c_lindner;strong;1
+torstenherbst;torstenherbst;same person;3
+ulle_schauws;ABaerbockArchiv;strong;2
+ulle_schauws;EUTheurer;no tie;1
+ulle_schauws;Oliver_Krischer;strong;1
+ulle_schauws;PaulZiemiak;no tie;1
+ulle_schauws;filizgreen;strong;1
+ulrichlechte;DanielaKluckert;strong;1
+ulrichlechte;GydeJ;strong;1
+ulrichlechte;HeikoMaas;weak;4
+ulrichlechte;c_lindner;strong;1
+ulrichlechte;ulrichlechte;same person;8
+ulschzi;Beatrix_vStorch;strong;2
+ulschzi;Leif_Erik_Holm;strong;1
+ulschzi;OlafScholz;no tie;2
+ulschzi;RogerBeckamp;strong;1
+ulschzi;Tino_Chrupalla;strong;1
+verenahubertz;KuehniKev;strong;1
+verenahubertz;ThomasHitschler;strong;1
+verenahubertz;hubertus_heil;strong;1
+verenahubertz;verenahubertz;same person;4
+victorperli;GregorGysi;weak;1
+victorperli;MartinaRenner;no tie;1
+victorperli;SevimDagdelen;no tie;1
+victorperli;andreasscheuer;no tie;1
+victorperli;victorperli;same person;45
+voglerk;AndrejHunko;strong;1
+voglerk;HeikoMaas;weak;1
+voglerk;Karl_Lauterbach;weak;3
+voglerk;LINKEPELLI;strong;1
+voglerk;MartinaRenner;strong;1
+voglerk;PaulZiemiak;weak;1
+voglerk;Ralf_Stegner;weak;1
+voglerk;SWagenknecht;weak;1
+voglerk;SusanneHennig;strong;1
+voglerk;gitta_connemann;no tie;1
+voglerk;jensspahn;weak;2
+voglerk;katjakipping;strong;1
+voglerk;victorperli;strong;1
+voglerk;voglerk;same person;1
+wanderwitz;wanderwitz;same person;1
+yooHannes;ABaerbockArchiv;weak;1
+yooHannes;K_SA;strong;1
+yooHannes;Karl_Lauterbach;weak;1
+yooHannes;MariaKlSchmeink;strong;1
+yooHannes;MiKellner;strong;1
+yooHannes;OlafScholz;no tie;1
+yooHannes;PaulZiemiak;no tie;3
+yooHannes;PaulaPiechotta;strong;1
+yooHannes;jamila_anna;weak;2
+yooHannes;janoschdahmen;strong;1
+yooHannes;smuellermdb;no tie;2
+zoe_gruene;RenateKuenast;strong;1
+zoe_gruene;cem_oezdemir;strong;1
