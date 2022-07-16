@@ -8,7 +8,7 @@ root = ET.parse('../data/external/MdB-Stammdaten-data/MDB_STAMMDATEN.XML').getro
 
 i = 0
 
-mdb_list = pd.DataFrame(columns=['bundestag_id', 'nachname', 'vorname', 'geburtsdatum', 'geburtsort', 'geburtsland', 'geschlecht', 'familienstand', 'religion', 'beruf', 'wp', 'fraktion'])
+mdb_list = pd.DataFrame(columns=['bundestag_id', 'nachname', 'vorname', 'geburtsdatum', 'geburtsort', 'geburtsland', 'geschlecht', 'familienstand', 'religion', 'beruf', 'wp', 'mdbwp_von', 'mdbwp_bis', 'wkr_nummer', 'wkr_name', 'wkr_land', 'liste', 'mandatsart', 'fraktion', 'ministerium', 'fkt_lang'])
 
 for child in root:
 	# print("\n### Mitglied des Bundestags ###")
@@ -25,7 +25,6 @@ for child in root:
 			if elem.tag == "NAMEN":
 				for namen in elem[-1]:
 					if namen.tag == "NACHNAME":
-						print(namen.text)
 						mdb_entry.append(namen.text)
 					if namen.tag == "VORNAME":
 						mdb_entry.append(namen.text)
@@ -62,14 +61,31 @@ for child in root:
 								add = True # set flag to true
 								i += 1 # It should be 736 but one politican changed with another one
 
-						
+						if add == True:
+							if elem2.tag == "MDBWP_VON":
+								mdb_entry.append(elem2.text)
+							if elem2.tag == "MDBWP_BIS":
+								mdb_entry.append(elem2.text)	
+							if elem2.tag == "WKR_NUMMER":
+								mdb_entry.append(elem2.text)	
+							if elem2.tag == "WKR_NAME":
+								mdb_entry.append(elem2.text)
+							if elem2.tag == "WKR_LAND":
+								mdb_entry.append(elem2.text)
+							if elem2.tag == "LISTE":
+								mdb_entry.append(elem2.text)
+							if elem2.tag == "MANDATSART":
+								mdb_entry.append(elem2.text)
+
 						if add == True:
 							# print(i, add)
 							if elem2.tag == "INSTITUTIONEN": 
 								# print(i, add, elem2.tag)
+
 								for institutionen in elem2:
 
 									addFraktion = False
+									addMinisterium = False
 									for institution in institutionen:
 										
 										# first detect if the institution in the nested array is of type fraction, then add the name of the fraction to the data set
@@ -82,13 +98,38 @@ for child in root:
 											# if information about a fraction was already found, skip the entry
 											# bug: if the person changed the party during 20th bundestag, the first party is used
 											# after checking data, as of 21th May only Uwe Witt and Johannes Huber are affected by this
-											if len(mdb_entry) == 11:
+											if len(mdb_entry) == 18:
 												mdb_entry.append(institution.text)
 											addFraktion = False
 
+										if institution.tag == "INSART_LANG":
+											if institution.text == "Ministerium":
+												addMinisterium = True
+
+										if len(mdb_entry) == 19:
+											mdb_entry.append(None)
+											mdb_entry.append(None)
+
+										if addMinisterium == True and institution.tag == "INS_LANG":
+											print(mdb_entry[2], mdb_entry[1])
+											print("INS_LANG", institution.text, len(mdb_entry))
+											if len(mdb_entry) == 21:
+												if mdb_entry[-2] is None:
+													mdb_entry[-2] = institution.text
+
+										if addMinisterium == True and institution.tag == "FKT_LANG":
+											print("FKT_LANG", institution.text, len(mdb_entry))
+											if len(mdb_entry) == 21:
+												mdb_entry.pop()
+												mdb_entry.append(institution.text)
+
+									addMinisterium = False
+
+									addFraktion = False
+
 					# Check flag if data entry should be added to data frame
 					if add == True:
-						print(mdb_entry)
+						# print(mdb_entry)
 						mdb_list.loc[len(mdb_list.index)] = mdb_entry	
 
 			# TODO: Add more available information to the table
