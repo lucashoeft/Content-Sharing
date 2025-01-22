@@ -1,5 +1,5 @@
 # Content-Sharing
-Analyzing Twitter data of the 20th German Parliament (also known as "Bundestag") to identify patterns in retweeting behavior.
+Analyzing Twitter data of the 20th German Parliament (also known as "Bundestag") to identify patterns in retweeting behavior. Find results in [Content_Sharing_Results.pdf](/Content_Sharing_Results.pdf).
 
 ## data
 
@@ -34,6 +34,10 @@ This folder contains all scripts for the data collection and transformation. The
 ### Transformations
 * <code>retweeter_collection.py</code>: Checks all tweet-files in the folder <code>tweet_list</code> and finds out which retweets/quotes are related to tweets in this list of tweets. In other words, it finds out which politician quoted/retweeted a tweet of another politician. The results are then stored in <code>retweet_list.csv</code> and <code>quote_list.csv</code>. Users can retweet/quote their own tweets as well.
 
+## data-preparation
+
+This folder contains the scripts und jupyter notebooks for preparing the data for the tool Gephi that is used to visualize the graphs/networks.
+
 ## data-analysis
 
-TODO
+This folder contains the jupyter notebooks for analysing the collected data. A summary of the results can be found in the PDF file [Content_Sharing_Results.pdf](/Content_Sharing_Results.pdf).
