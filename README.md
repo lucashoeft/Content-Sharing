@@ -1,5 +1,9 @@
 # Content-Sharing
-Analyzing Twitter data of the 20th German Parliament (also known as "Bundestag") to identify patterns in retweeting behavior. Find results in [Content_Sharing_Results.pdf](/Content_Sharing_Results.pdf).
+Analyzing Twitter data of the 20th German Parliament (also known as "Bundestag") to identify patterns in retweeting behavior. 
+
+The data from Twitter was collected in May 2022 via the official Twitter-API for researchers. 
+
+Find the results of the research in [Content_Sharing_Results.pdf](/Content_Sharing_Results.pdf). 
 
 ## data
 
